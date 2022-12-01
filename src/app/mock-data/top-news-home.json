@@ -1,0 +1,1773 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "section": "home",
+    "last_updated": "2022-11-29T01:25:16-05:00",
+    "num_results": 29,
+    "results": [
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Antiwar Activists Who Flee Russia Find Detention, Not Freedom, in the U.S.",
+            "abstract": "Thousands of Russians are crossing the U.S. southern border to claim asylum. Many are ending up in immigration prison. “I left Russia for a place just like Russia,” said one.",
+            "url": "https://www.nytimes.com/2022/11/28/us/russian-activists-asylum.html",
+            "uri": "nyt://article/4ada8fd2-2367-5f52-8c8e-905f60f547dc",
+            "byline": "By Miriam Jordan",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T23:02:32-05:00",
+            "created_date": "2022-11-28T15:50:59-05:00",
+            "published_date": "2022-11-28T15:50:59-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Immigration Detention",
+                "Asylum, Right of",
+                "Immigration and Emigration",
+                "Russian Invasion of Ukraine (2022)"
+            ],
+            "org_facet": [
+                "Immigration and Customs Enforcement (US)"
+            ],
+            "per_facet": [
+                "Navalny, Aleksei A"
+            ],
+            "geo_facet": [
+                "Delhi (NY)",
+                "Louisiana"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/22/us/00NAT-RUSSIAN-ASYLUM-1/merlin_216438957_52998a70-e678-48fb-abd5-2681f9f5e72b-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1414,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mariia Shemiatina and Boris Shevchuk reunite after Boris’s release outside the ICE detention center in Pine Prairie, La.",
+                    "copyright": "Emily Kask for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/22/us/00NAT-RUSSIAN-ASYLUM-1/merlin_216438957_52998a70-e678-48fb-abd5-2681f9f5e72b-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mariia Shemiatina and Boris Shevchuk reunite after Boris’s release outside the ICE detention center in Pine Prairie, La.",
+                    "copyright": "Emily Kask for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/22/us/00NAT-RUSSIAN-ASYLUM-1/00NAT-RUSSIAN-ASYLUM-1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mariia Shemiatina and Boris Shevchuk reunite after Boris’s release outside the ICE detention center in Pine Prairie, La.",
+                    "copyright": "Emily Kask for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3V7y4KZ"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Ukraine Warns of More Strikes on Power Plants, as Russians Dig In",
+            "abstract": "Russian forces are fortifying positions in southern Ukraine after retreating from Kherson, and the Kremlin denied planning to withdraw from the Zaporizhzhia nuclear plant.",
+            "url": "https://www.nytimes.com/2022/11/28/world/europe/ukraine-russia-war-kherson.html",
+            "uri": "nyt://article/685c920d-55fe-5394-97cc-af6a584defd8",
+            "byline": "By Matthew Mpoke Bigg, Marc Santora and Maria Varenikova",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T23:12:54-05:00",
+            "created_date": "2022-11-28T19:00:10-05:00",
+            "published_date": "2022-11-28T19:00:10-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "Civilian Casualties"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Kherson (Ukraine)",
+                "Zaporizhzhia (Ukraine)",
+                "Russia",
+                "Ukraine",
+                "Izium (Ukraine)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/28ukraine-ledeall-2/merlin_217467447_37edb797-4e6b-4e3a-be22-a3bc115736e9-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Older residents are evacuated from Kherson on Sunday.",
+                    "copyright": "Bernat Armangue/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/28ukraine-ledeall-2/merlin_217467447_37edb797-4e6b-4e3a-be22-a3bc115736e9-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Older residents are evacuated from Kherson on Sunday.",
+                    "copyright": "Bernat Armangue/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/28ukraine-ledeall-2/28ukraine-ledeall-2-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Older residents are evacuated from Kherson on Sunday.",
+                    "copyright": "Bernat Armangue/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3ED9ZEQ"
+        },
+        {
+            "section": "business",
+            "subsection": "economy",
+            "title": "Chinese Unrest Over Lockdown Upends Global Economic Outlook",
+            "abstract": "Growing protests in the world’s biggest manufacturing nation add a new element of uncertainty atop the Ukraine war, an energy crisis and inflation.",
+            "url": "https://www.nytimes.com/2022/11/28/business/economy/china-unrest-global-economy.html",
+            "uri": "nyt://article/07bd79d9-c215-58c2-a07c-b423b6d1cd5d",
+            "byline": "By Patricia Cohen",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T23:00:47-05:00",
+            "created_date": "2022-11-28T16:48:59-05:00",
+            "published_date": "2022-11-28T16:48:59-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "International Trade and World Market",
+                "Economic Conditions and Trends",
+                "Coronavirus (2019-nCoV)",
+                "Supply Chain",
+                "Prices (Fares, Fees and Rates)",
+                "Oil (Petroleum) and Gasoline",
+                "Factories and Manufacturing"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "China"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/business/28global-econ-china-1/28global-econ-china-1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Demonstrators in Beijing held blank pieces of paper to protest censorship as unrest in China over Covid-19 lockdowns grew on Sunday.",
+                    "copyright": "Kevin Frayer/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/business/28global-econ-china-1/28global-econ-china-1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Demonstrators in Beijing held blank pieces of paper to protest censorship as unrest in China over Covid-19 lockdowns grew on Sunday.",
+                    "copyright": "Kevin Frayer/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/business/28global-econ-china-1/28global-econ-china-1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Demonstrators in Beijing held blank pieces of paper to protest censorship as unrest in China over Covid-19 lockdowns grew on Sunday.",
+                    "copyright": "Kevin Frayer/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3OG9u1v"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "White House Weighs How Forcefully to Support Protesters in China",
+            "abstract": "The demonstrations over Covid lockdowns present a challenge for President Biden, who has insisted he will call out abuses by authoritarian governments.",
+            "url": "https://www.nytimes.com/2022/11/28/us/politics/biden-china-covid-protests.html",
+            "uri": "nyt://article/47f90f81-6f49-58ea-b1ad-883f19a0fc73",
+            "byline": "By David E. Sanger",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T23:10:57-05:00",
+            "created_date": "2022-11-28T18:21:31-05:00",
+            "published_date": "2022-11-28T18:21:31-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "United States International Relations",
+                "Demonstrations, Protests and Riots",
+                "Democracy (Theory and Philosophy)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Xi Jinping"
+            ],
+            "geo_facet": [
+                "China"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/us/politics/28dc-prexy-sub/28dc-prexy-sub-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Police officers tried to prevent people from settling in place for any potential protest in Shanghai on Sunday.",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/us/politics/28dc-prexy-sub/28dc-prexy-sub-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Police officers tried to prevent people from settling in place for any potential protest in Shanghai on Sunday.",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/us/politics/28dc-prexy-sub/28dc-prexy-sub-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Police officers tried to prevent people from settling in place for any potential protest in Shanghai on Sunday.",
+                    "copyright": "The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3u6rFnl"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Jewish Allies Call Trump’s Dinner With Antisemites a Breaking Point",
+            "abstract": "Supporters who looked past the former president’s admirers in bigoted corners of the far right, and his own use of antisemitic tropes, now are drawing a line. “He legitimizes Jew hatred and Jew haters,” says one. “And this scares me.”",
+            "url": "https://www.nytimes.com/2022/11/28/us/politics/trump-kanye-west-nick-fuentes-antisemitism.html",
+            "uri": "nyt://article/5c21f48d-d947-5472-b8ea-c3cdc9216346",
+            "byline": "By Jonathan Weisman",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T23:05:09-05:00",
+            "created_date": "2022-11-28T19:25:24-05:00",
+            "published_date": "2022-11-28T19:25:24-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "Anti-Semitism",
+                "Jews and Judaism",
+                "Right-Wing Extremism and Alt-Right"
+            ],
+            "org_facet": [
+                "Republican Jewish Coalition"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "West, Kanye",
+                "Fuentes, Nicholas J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/multimedia/28pol-trump-jews-1-ae84/28pol-trump-jews-1-ae84-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Former President Donald J. Trump addressed the Republican Jewish Coalition’s conference in Las Vegas on a video call this month.",
+                    "copyright": "Mikayla Whitmore for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/multimedia/28pol-trump-jews-1-ae84/28pol-trump-jews-1-ae84-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Former President Donald J. Trump addressed the Republican Jewish Coalition’s conference in Las Vegas on a video call this month.",
+                    "copyright": "Mikayla Whitmore for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/multimedia/28pol-trump-jews-1-ae84/28pol-trump-jews-1-ae84-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Former President Donald J. Trump addressed the Republican Jewish Coalition’s conference in Las Vegas on a video call this month.",
+                    "copyright": "Mikayla Whitmore for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3VhHAev"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Trump Plans Limited Role in Georgia Senate Runoff",
+            "abstract": "The former president, who held two big rallies before the state’s two runoff elections two years ago — both of which Democrats won — will steer clear of Georgia before next week’s Senate election.",
+            "url": "https://www.nytimes.com/2022/11/28/us/politics/trump-georgia-senate-runoff.html",
+            "uri": "nyt://article/ac1064a0-005c-5471-83f5-2f6bc0672734",
+            "byline": "By Michael C. Bender",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T23:25:03-05:00",
+            "created_date": "2022-11-28T15:06:36-05:00",
+            "published_date": "2022-11-28T15:06:36-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Midterm Elections (2022)",
+                "United States Politics and Government",
+                "Elections, Senate"
+            ],
+            "org_facet": [
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Walker, Herschel"
+            ],
+            "geo_facet": [
+                "Georgia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/09/us/28-pol-georgia-trump/28-pol-georgia-trump-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Former President Donald J. Trump and Herschel Walker at a rally in March in Georgia.",
+                    "copyright": "Audra Melton for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/09/us/28-pol-georgia-trump/00GA-Christianity-s4-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Former President Donald J. Trump and Herschel Walker at a rally in March in Georgia.",
+                    "copyright": "Audra Melton for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/09/us/28-pol-georgia-trump/28-pol-georgia-trump-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Former President Donald J. Trump and Herschel Walker at a rally in March in Georgia.",
+                    "copyright": "Audra Melton for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Vymatj"
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "A U.S.-Iran Soccer Showdown Intensifies With Protests as a Backdrop",
+            "abstract": "The unrest that has gripped Iran for the past two months has heightened what would already have been a tense encounter at the World Cup in Qatar on Tuesday between the two geopolitical foes.",
+            "url": "https://www.nytimes.com/2022/11/28/world/middleeast/iran-us-soccer-protests.html",
+            "uri": "nyt://article/4cd4ab06-1284-54fd-80ce-1186e98d9057",
+            "byline": "By Vivian Yee",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T23:36:46-05:00",
+            "created_date": "2022-11-28T13:13:43-05:00",
+            "published_date": "2022-11-28T13:13:43-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Politics and Government",
+                "United States International Relations",
+                "Demonstrations, Protests and Riots",
+                "Soccer",
+                "National Anthems",
+                "World Cup 2022 (Soccer)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Qatar",
+                "Iran"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/world/29JPworldcup-qatar-iran1-print/merlin_217352751_01924c9a-550d-480d-94c4-76512e20f969-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1275,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Iran’s players during the singing of the national anthem ahead of their match with Wales at the World Cup in Al Rayyan, Qatar, on Friday.",
+                    "copyright": "Frank Augstein/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/world/29JPworldcup-qatar-iran1-print/28qatar-iran-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Iran’s players during the singing of the national anthem ahead of their match with Wales at the World Cup in Al Rayyan, Qatar, on Friday.",
+                    "copyright": "Frank Augstein/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/world/29JPworldcup-qatar-iran1-print/28qatar-iran-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Iran’s players during the singing of the national anthem ahead of their match with Wales at the World Cup in Al Rayyan, Qatar, on Friday.",
+                    "copyright": "Frank Augstein/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3OMI21V"
+        },
+        {
+            "section": "upshot",
+            "subsection": "",
+            "title": "World Cup 2022: How Teams Can Advance to the Round of 16",
+            "abstract": "An overview of the scenarios describing how all 32 teams can advance to the knockout round.",
+            "url": "https://www.nytimes.com/interactive/2022/upshot/world-cup-standings.html",
+            "uri": "nyt://interactive/213d6685-bb07-564e-8d36-2793ff81f9bb",
+            "byline": "",
+            "item_type": "Interactive",
+            "updated_date": "2022-11-28T16:21:55-05:00",
+            "created_date": "2022-11-20T00:08:04-05:00",
+            "published_date": "2022-11-20T00:08:04-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "World Cup (Soccer)",
+                "World Cup 2022 (Soccer)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/19/upshot/wc-upshot-promo/wc-upshot-promo-superJumbo.png",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/19/upshot/wc-upshot-promo/wc-upshot-promo-threeByTwoSmallAt2X.png",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/19/upshot/wc-upshot-promo/wc-upshot-promo-thumbLarge.png",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Vaee17"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Congress Looks to Intervene in Rail Dispute as Strike Deadline Looms",
+            "abstract": "After urging from President Biden, Speaker Nancy Pelosi said the House would consider an agreement that could avert a shutdown of the nation’s freight trains.",
+            "url": "https://www.nytimes.com/2022/11/28/us/politics/biden-rail-strike-congress.html",
+            "uri": "nyt://article/f3c50f14-7350-5e71-8023-38d98dc4e6ed",
+            "byline": "By Michael D. Shear and Noam Scheiber",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T22:52:05-05:00",
+            "created_date": "2022-11-28T18:27:36-05:00",
+            "published_date": "2022-11-28T18:27:36-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "Strikes",
+                "Organized Labor",
+                "Law and Legislation",
+                "Railroads",
+                "Supply Chain"
+            ],
+            "org_facet": [
+                "House of Representatives",
+                "Senate"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/multimedia/28dc-biden-strike-1-1b9a/28dc-biden-strike-1-1b9a-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Frozen train lines would snap supply chains for commodities like lumber, coal and chemicals and delay deliveries of automobiles and other consumer goods.",
+                    "copyright": "Mario Tama/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/multimedia/28dc-biden-strike-1-1b9a/28dc-biden-strike-1-1b9a-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Frozen train lines would snap supply chains for commodities like lumber, coal and chemicals and delay deliveries of automobiles and other consumer goods.",
+                    "copyright": "Mario Tama/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/multimedia/28dc-biden-strike-1-1b9a/28dc-biden-strike-1-1b9a-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Frozen train lines would snap supply chains for commodities like lumber, coal and chemicals and delay deliveries of automobiles and other consumer goods.",
+                    "copyright": "Mario Tama/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3XDppBI"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "G.O.P.-Controlled County in Arizona Holds Up Election Results",
+            "abstract": "Republican local officials are threatening to disrupt the final tally of midterm votes in one more sign of the politicization of elections.",
+            "url": "https://www.nytimes.com/2022/11/28/us/politics/arizona-county-election-results-cochise.html",
+            "uri": "nyt://article/a97ea3b9-8fca-5fab-970c-66e57e2ca95a",
+            "byline": "By Charles Homans",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T23:25:40-05:00",
+            "created_date": "2022-11-28T19:41:30-05:00",
+            "published_date": "2022-11-28T19:41:30-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Midterm Elections (2022)",
+                "United States Politics and Government",
+                "Voting Machines",
+                "Fringe Groups and Movements",
+                "Elections, Attorneys General",
+                "Elections, Governors"
+            ],
+            "org_facet": [
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Hobbs, Kathleen M",
+                "Lake, Kari A"
+            ],
+            "geo_facet": [
+                "Cochise County (Ariz)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/23/multimedia/00pol-arizonavoting-1-e836/00pol-arizonavoting-1-e836-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kari Lake, who lost her bid for governor of Arizona, at the U.S.-Mexico border this month in Cochise County.",
+                    "copyright": "Rebecca Noble for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/23/multimedia/00pol-arizonavoting-1-e836/00pol-arizonavoting-1-e836-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kari Lake, who lost her bid for governor of Arizona, at the U.S.-Mexico border this month in Cochise County.",
+                    "copyright": "Rebecca Noble for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/23/multimedia/00pol-arizonavoting-1-e836/00pol-arizonavoting-1-e836-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kari Lake, who lost her bid for governor of Arizona, at the U.S.-Mexico border this month in Cochise County.",
+                    "copyright": "Rebecca Noble for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3VxmE31"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Was Election Denial Just a Passing Threat?",
+            "abstract": "Or is it here to stay?",
+            "url": "https://www.nytimes.com/2022/11/28/us/politics/election-deniers-2022-midterms.html",
+            "uri": "nyt://article/19226f2b-3970-5da1-b1d8-da683d925fbe",
+            "byline": "By Blake Hounshell",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T19:00:06-05:00",
+            "created_date": "2022-11-28T19:00:06-05:00",
+            "published_date": "2022-11-28T19:00:06-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "internal-sub-only-nl",
+                "Right-Wing Extremism and Alt-Right",
+                "Presidential Election of 2020",
+                "Midterm Elections (2022)",
+                "Rumors and Misinformation",
+                "Voter Fraud (Election Fraud)"
+            ],
+            "org_facet": [
+                "Republican Party"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/multimedia/28OnPolitics-newsletter-1-ed5c/28OnPolitics-newsletter-1-ed5c-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Conservative demonstrators gathered in Phoenix on Friday. ",
+                    "copyright": "Rebecca Noble for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/multimedia/28OnPolitics-newsletter-1-ed5c/28OnPolitics-newsletter-1-ed5c-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Conservative demonstrators gathered in Phoenix on Friday. ",
+                    "copyright": "Rebecca Noble for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/multimedia/28OnPolitics-newsletter-1-ed5c/28OnPolitics-newsletter-1-ed5c-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Conservative demonstrators gathered in Phoenix on Friday. ",
+                    "copyright": "Rebecca Noble for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3imVr4A"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Anthony Ornato, a Key Jan. 6 Witness, to Speak With House Panel",
+            "abstract": "Mr. Ornato, a former Secret Service agent and White House aide, is at the center of a dispute over competing accounts of President Donald J. Trump’s actions.",
+            "url": "https://www.nytimes.com/2022/11/28/us/politics/tony-ornato-jan-6-committee.html",
+            "uri": "nyt://article/39da5dd4-0772-545f-9aad-1ec15d6dd5c6",
+            "byline": "By Luke Broadwater",
+            "item_type": "Article",
+            "updated_date": "2022-11-29T00:02:55-05:00",
+            "created_date": "2022-11-28T23:31:50-05:00",
+            "published_date": "2022-11-28T23:31:50-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "Storming of the US Capitol (Jan, 2021)"
+            ],
+            "org_facet": [
+                "House Select Committee to Investigate the January 6th Attack",
+                "Secret Service"
+            ],
+            "per_facet": [
+                "Ornato, Anthony M",
+                "Conway, Kellyanne",
+                "Trump, Donald J",
+                "Hutchinson, Cassidy"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/01/us/politics/28dc-jan6/28dc-jan6-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Anthony M. Ornato, who oversaw the logistics of President Donald J. Trump’s movements outside, is key to a dispute over Mr. Trump’s actions in a presidential S.U.V. as rioters stormed the Capitol.",
+                    "copyright": "Tom Brenner/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/01/us/politics/28dc-jan6/28dc-jan6-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Anthony M. Ornato, who oversaw the logistics of President Donald J. Trump’s movements outside, is key to a dispute over Mr. Trump’s actions in a presidential S.U.V. as rioters stormed the Capitol.",
+                    "copyright": "Tom Brenner/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/01/us/politics/28dc-jan6/28dc-jan6-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Anthony M. Ornato, who oversaw the logistics of President Donald J. Trump’s movements outside, is key to a dispute over Mr. Trump’s actions in a presidential S.U.V. as rioters stormed the Capitol.",
+                    "copyright": "Tom Brenner/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3EODfZ9"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "These Young Workers Are ‘Romanticizing’ the Return to Office",
+            "abstract": "As many others chafe against employer mandates, creators on TikTok —  some new to the work force — are trying to show that the office can be fun.",
+            "url": "https://www.nytimes.com/2022/11/27/business/tiktok-office-influencers.html",
+            "uri": "nyt://article/dcbbbad9-6e0b-5cb6-a2dd-b4c043f12cb5",
+            "byline": "By Marie Solis",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T15:54:00-05:00",
+            "created_date": "2022-11-27T05:00:22-05:00",
+            "published_date": "2022-11-27T05:00:22-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus Return to Office",
+                "Social Media",
+                "Labor and Jobs",
+                "Workplace Environment",
+                "Employee Fringe Benefits"
+            ],
+            "org_facet": [
+                "TikTok (ByteDance)",
+                "HarperCollins Publishers",
+                "Microsoft Corp"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/business/27RTO-INFLUENCERS-chen-01/merlin_217158702_bac2ac1b-c2b7-4bbc-879a-d513c765b2af-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Alison Chen has over 25,000 followers on TikTok, where she posts videos of her work life.",
+                    "copyright": "Jason Henry for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/business/27RTO-INFLUENCERS-chen-01/27RTO-INFLUENCERS-chen-01-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Alison Chen has over 25,000 followers on TikTok, where she posts videos of her work life.",
+                    "copyright": "Jason Henry for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/business/27RTO-INFLUENCERS-chen-01/27RTO-INFLUENCERS-chen-01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Alison Chen has over 25,000 followers on TikTok, where she posts videos of her work life.",
+                    "copyright": "Jason Henry for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3XzZWsP"
+        },
+        {
+            "section": "arts",
+            "subsection": "",
+            "title": "Anderson Cooper Explores Grief and Loss in Deeply Personal Podcast",
+            "abstract": "Over the eight episodes of “All There Is,” the CNN anchor digs into his own family traumas as well as those of others.",
+            "url": "https://www.nytimes.com/2022/11/28/arts/anderson-cooper-grief-podcast.html",
+            "uri": "nyt://article/bbd75fbc-71bd-5256-9cbf-1af25bc9a023",
+            "byline": "By Robin Pogrebin",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T23:33:03-05:00",
+            "created_date": "2022-11-28T05:00:16-05:00",
+            "published_date": "2022-11-28T05:00:16-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "All There Is With Anderson Cooper (Radio Program)",
+                "Grief (Emotion)",
+                "Podcasts",
+                "Content Type: Personal Profile"
+            ],
+            "org_facet": [
+                "CNN"
+            ],
+            "per_facet": [
+                "Cooper, Anderson"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/arts/28cooper-podcast01/merlin_217401690_48cb3734-db1f-4d17-a6bb-5703ac008510-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1463,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Undertaking the podcast about grief and loss helped Anderson Cooper connect with the anguish of others.",
+                    "copyright": "Sinna Nasseri for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/arts/28cooper-podcast01/28cooper-podcast01-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Undertaking the podcast about grief and loss helped Anderson Cooper connect with the anguish of others.",
+                    "copyright": "Sinna Nasseri for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/arts/28cooper-podcast01/28cooper-podcast01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Undertaking the podcast about grief and loss helped Anderson Cooper connect with the anguish of others.",
+                    "copyright": "Sinna Nasseri for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3GR17y0"
+        },
+        {
+            "section": "magazine",
+            "subsection": "",
+            "title": "Where Does All the Cardboard Come From? I Had to Know.",
+            "abstract": "Entire forests and enormous factories running 24/7 can barely keep up with demand. This is how the cardboard economy works.",
+            "url": "https://www.nytimes.com/2022/11/28/magazine/cardboard-international-paper.html",
+            "uri": "nyt://article/d29546ce-f5af-52de-884d-33721d8e3872",
+            "byline": "By Matthew Shaer",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T15:53:28-05:00",
+            "created_date": "2022-11-28T11:45:51-05:00",
+            "published_date": "2022-11-28T11:45:51-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "E-Commerce",
+                "Containers and Packaging",
+                "Supply Chain",
+                "International Trade and World Market",
+                "Trees and Shrubs",
+                "Paper and Pulp",
+                "Shopping and Retail"
+            ],
+            "org_facet": [
+                "International Paper Co",
+                "Amazon.com Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Georgia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/12/04/magazine/04mag-cardboard-copy/04mag-cardboard-copy-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo illustration by Todd St. John"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/12/04/magazine/04mag-cardboard-copy/04mag-cardboard-copy-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo illustration by Todd St. John"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/12/04/magazine/04mag-cardboard-copy/04mag-cardboard-copy-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo illustration by Todd St. John"
+                }
+            ],
+            "short_url": "https://nyti.ms/3OKb5TV"
+        },
+        {
+            "section": "realestate",
+            "subsection": "",
+            "title": "They Loved the Diversity of Oakland. Could They Find a House They Loved There, Too?",
+            "abstract": "When a couple was forced to move out of their rental, they scrambled to find a house that they could afford to buy for about $800,000.",
+            "url": "https://www.nytimes.com/interactive/2022/11/24/realestate/california-oakland-housing-james-meredith.html",
+            "uri": "nyt://interactive/ae39fa2f-3b2c-5788-9829-44347d31d317",
+            "byline": "By Mark Kreidler",
+            "item_type": "Interactive",
+            "updated_date": "2022-11-28T19:09:36-05:00",
+            "created_date": "2022-11-24T05:00:01-05:00",
+            "published_date": "2022-11-24T05:00:01-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Real Estate and Housing (Residential)",
+                "Black People",
+                "Race and Ethnicity"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Oakland (Calif)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/24/realestate/24HUNT-OAKLAND-1/24HUNT-OAKLAND-1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Cara and James Meredith wanted to raise their growing mixed-race family in Oakland.",
+                    "copyright": "Jim Wilson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/24/realestate/24HUNT-OAKLAND-1/24HUNT-OAKLAND-1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Cara and James Meredith wanted to raise their growing mixed-race family in Oakland.",
+                    "copyright": "Jim Wilson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/24/realestate/24HUNT-OAKLAND-1/24HUNT-OAKLAND-1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Cara and James Meredith wanted to raise their growing mixed-race family in Oakland.",
+                    "copyright": "Jim Wilson/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3AGrymk"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "How China Lost the Covid War",
+            "abstract": "What the rest of us can learn from the zero-Covid disaster.",
+            "url": "https://www.nytimes.com/2022/11/28/opinion/china-covid-autocracy-democracy.html",
+            "uri": "nyt://article/d8006df4-448e-555b-b518-d5427b13f4dc",
+            "byline": "By Paul Krugman",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T23:03:21-05:00",
+            "created_date": "2022-11-28T19:00:06-05:00",
+            "published_date": "2022-11-28T19:00:06-05:00",
+            "material_type_facet": "",
+            "kicker": "Paul Krugman",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Quarantines",
+                "Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "China"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/30/opinion/28krugman1/merlin_216494337_a1923a89-6b2d-46df-ae1d-b8a49684a0a7-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Thomas Peter/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/30/opinion/28krugman1/28krugman1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Thomas Peter/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/30/opinion/28krugman1/28krugman1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Thomas Peter/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3VhxURc"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "Antisemitism’s March Into the Mainstream",
+            "abstract": "Dining with a white supremacist, Trump demolishes another taboo.",
+            "url": "https://www.nytimes.com/2022/11/28/opinion/antisemitism-trump-nick-fuentes.html",
+            "uri": "nyt://article/57d878fe-f409-51a7-9db2-fed2a9e29747",
+            "byline": "By Michelle Goldberg",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T23:03:13-05:00",
+            "created_date": "2022-11-28T19:42:31-05:00",
+            "published_date": "2022-11-28T19:42:31-05:00",
+            "material_type_facet": "",
+            "kicker": "Michelle Goldberg",
+            "des_facet": [
+                "Anti-Semitism",
+                "Discrimination",
+                "Jews and Judaism",
+                "Right-Wing Extremism and Alt-Right",
+                "Leopoldstadt (Play)"
+            ],
+            "org_facet": [
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Fuentes, Nicholas J",
+                "Trump, Donald J",
+                "West, Kanye",
+                "Stoppard, Tom"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/opinion/28goldberg1/28goldberg1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Nick Fuentes, Donald Trump’s white supremacist dinner guest.",
+                    "copyright": "Mark Peterson/Redux"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/opinion/28goldberg1/28goldberg1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Nick Fuentes, Donald Trump’s white supremacist dinner guest.",
+                    "copyright": "Mark Peterson/Redux"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/opinion/28goldberg1/28goldberg1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Nick Fuentes, Donald Trump’s white supremacist dinner guest.",
+                    "copyright": "Mark Peterson/Redux"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Xzv0ch"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "If We Ignore Donald Trump, We Might See Who He Really Is",
+            "abstract": "My father’s advice on how to deal with bullies would work great on Donald Trump.",
+            "url": "https://www.nytimes.com/2022/11/28/opinion/donald-trump-news.html",
+            "uri": "nyt://article/6268e934-7eed-5a29-9dfc-9244abd655b8",
+            "byline": "By Patti Davis",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T15:36:47-05:00",
+            "created_date": "2022-11-28T05:00:08-05:00",
+            "published_date": "2022-11-28T05:00:08-05:00",
+            "material_type_facet": "",
+            "kicker": "Guest Essay",
+            "des_facet": [
+                "Bullies",
+                "Children and Childhood"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Reagan, Ronald Wilson",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/opinion/28davis-image2/merlin_212531706_8e524fcf-10df-4372-896b-6a133b0a8979-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mark Peterson/Redux, for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/opinion/28davis-image2/merlin_212531706_8e524fcf-10df-4372-896b-6a133b0a8979-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mark Peterson/Redux, for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/opinion/28davis-image2/28davis-image2-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mark Peterson/Redux, for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3XFKprg"
+        },
+        {
+            "section": "opinion",
+            "subsection": "letters",
+            "title": "Puberty Blockers for Transgender Youths",
+            "abstract": "Readers discuss the benefits and risks of puberty blockers. Also: Donald Trump’s dinner with antisemites; robots in the workplace.",
+            "url": "https://www.nytimes.com/2022/11/28/opinion/letters/puberty-blockers-transgender-youths.html",
+            "uri": "nyt://article/55ba0ea3-e662-53bf-baf6-c132030430a6",
+            "byline": "",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T23:03:50-05:00",
+            "created_date": "2022-11-28T11:42:22-05:00",
+            "published_date": "2022-11-28T11:42:22-05:00",
+            "material_type_facet": "",
+            "kicker": "letters",
+            "des_facet": [
+                "Teenagers and Adolescence",
+                "Transgender and Transsexuals",
+                "Youth",
+                "Gender",
+                "Medicine and Health",
+                "Anti-Semitism",
+                "United States Politics and Government",
+                "Robots and Robotics",
+                "Workplace Environment"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J",
+                "Obama, Barack",
+                "West, Kanye",
+                "Fuentes, Nicholas J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/18/us/14evening-briefing-nl-blockers/14evening-briefing-nl-blockers-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 2047,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "After two years of puberty blockers, Emma Basques was prescribed estrogen at 13, starting her transition.",
+                    "copyright": "Verónica G. Cárdenas for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/18/us/14evening-briefing-nl-blockers/14evening-briefing-nl-blockers-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "After two years of puberty blockers, Emma Basques was prescribed estrogen at 13, starting her transition.",
+                    "copyright": "Verónica G. Cárdenas for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/18/us/14evening-briefing-nl-blockers/00blockers-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "After two years of puberty blockers, Emma Basques was prescribed estrogen at 13, starting her transition.",
+                    "copyright": "Verónica G. Cárdenas for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3V6OVO1"
+        },
+        {
+            "section": "dining",
+            "subsection": "",
+            "title": "Holiday Gift Ideas From The Veggie",
+            "abstract": "Vegan chocolate bars, dreamy cookbooks and more small luxuries to give this year, as well as some ideas for your Thanksgiving leftovers.",
+            "url": "https://www.nytimes.com/2022/11/24/dining/holiday-gift-ideas-from-the-veggie.html",
+            "uri": "nyt://article/322b12cd-45ac-5095-8004-e5f280f98022",
+            "byline": "By Tejal Rao",
+            "item_type": "Article",
+            "updated_date": "2022-11-24T13:00:03-05:00",
+            "created_date": "2022-11-24T13:00:03-05:00",
+            "published_date": "2022-11-24T13:00:03-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Cooking and Cookbooks",
+                "Content Type: Service",
+                "Recipes"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2012/11/21/health/wellveggie_desserts4-copy/wellveggie_desserts4-superJumbo-v5.jpg",
+                    "format": "Super Jumbo",
+                    "height": 499,
+                    "width": 744,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Chloe Coscarelli"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2012/11/21/health/wellveggie_desserts4-copy/wellveggie_desserts4-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Chloe Coscarelli"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2012/11/21/health/wellveggie_desserts4-copy/wellveggie_desserts4-thumbLarge-v4.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Chloe Coscarelli"
+                }
+            ],
+            "short_url": "https://nyti.ms/3tYexkg"
+        },
+        {
+            "section": "podcasts",
+            "subsection": "",
+            "title": "Encore: When Two Open Marriages Collide",
+            "abstract": "They had agreed to have other romantic partners on the side. A tragic accident put their arrangement front and center.",
+            "url": "https://www.nytimes.com/2022/11/23/podcasts/modern-love-open-marriage.html",
+            "uri": "nyt://article/117be74c-e972-5e87-9572-ab782565f292",
+            "byline": "",
+            "item_type": "Article",
+            "updated_date": "2022-11-24T04:07:05-05:00",
+            "created_date": "2022-11-23T16:00:08-05:00",
+            "published_date": "2022-11-23T16:00:08-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Marriages",
+                "Dating and Relationships",
+                "Love (Emotion)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/01/12/fashion/30MODERNLOVE-PODCAST/12MODERN-OPEN-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1295,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Brian Rea"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/01/12/fashion/30MODERNLOVE-PODCAST/30MODERNLOVE-PODCAST-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Brian Rea"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/01/12/fashion/30MODERNLOVE-PODCAST/12MODERN-OPEN-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Brian Rea"
+                }
+            ],
+            "short_url": "https://nyti.ms/3V4tzRg"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Did You Quit Your Job in the Last Year? We Want to Hear About It.",
+            "abstract": "We are specifically interested in hearing from parents, people whose relationships were affected and those who quit because of burnout.",
+            "url": "https://www.nytimes.com/2022/11/23/business/quitting-readers-burnout-parents-relationships.html",
+            "uri": "nyt://article/c723f6e1-d645-574c-bcd0-118df51fcbfb",
+            "byline": "By Dan Saltzstein",
+            "item_type": "Article",
+            "updated_date": "2022-11-23T03:00:06-05:00",
+            "created_date": "2022-11-23T03:00:06-05:00",
+            "published_date": "2022-11-23T03:00:06-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Labor and Jobs",
+                "Work-Life Balance"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/22/multimedia/00quitting-v2/00quitting-v2-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1364,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "A. Van Sise/NurPhoto, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/22/multimedia/00quitting-v2/00quitting-v2-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "A. Van Sise/NurPhoto, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/22/multimedia/00quitting-v2/00quitting-v2-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "A. Van Sise/NurPhoto, via Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3V2Llo1"
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "5 New Haven Officers Charged in Paralysis of Black Man They Transported",
+            "abstract": "The man was being taken to a Connecticut police station when the driver of a police van hit the brakes hard, shattering the man’s spine.",
+            "url": "https://www.nytimes.com/2022/11/28/nyregion/connecticut-police-officers-charged.html",
+            "uri": "nyt://article/de94b674-71de-5e44-844c-e8599b0b783f",
+            "byline": "By Sarah Maslin Nir",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T23:26:29-05:00",
+            "created_date": "2022-11-28T16:16:52-05:00",
+            "published_date": "2022-11-28T16:16:52-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Black People",
+                "Police Brutality, Misconduct and Shootings"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "New Haven (Conn)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/nyregion/28CONNNECTICUT-OFFICERS1/merlin_209782362_69cecd60-ca27-45e8-92fe-83921e38d60c-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1411,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jerry Brown, center, brother of Randy Cox, spoke at a rally in front of the New Haven Police Department in July.",
+                    "copyright": "Arnold Gold/New Haven Register, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/nyregion/28CONNNECTICUT-OFFICERS1/merlin_209782362_69cecd60-ca27-45e8-92fe-83921e38d60c-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jerry Brown, center, brother of Randy Cox, spoke at a rally in front of the New Haven Police Department in July.",
+                    "copyright": "Arnold Gold/New Haven Register, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/nyregion/28CONNNECTICUT-OFFICERS1/28CONNNECTICUT-OFFICERS1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jerry Brown, center, brother of Randy Cox, spoke at a rally in front of the New Haven Police Department in July.",
+                    "copyright": "Arnold Gold/New Haven Register, via Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3UnvcbS"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Elon Musk Takes On Apple’s Power, Setting Up a Clash",
+            "abstract": "In a series of tweets on Monday, Mr. Musk accused Apple of threatening to pull Twitter from its App Store and of trying to censor.",
+            "url": "https://www.nytimes.com/2022/11/28/technology/elon-musk-apple-twitter.html",
+            "uri": "nyt://article/c285f3aa-a7fa-567f-900d-de7001d4b04b",
+            "byline": "By Kate Conger and Tripp Mickle",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T22:48:51-05:00",
+            "created_date": "2022-11-28T15:13:22-05:00",
+            "published_date": "2022-11-28T15:13:22-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Computers and the Internet",
+                "Social Media",
+                "Mobile Applications",
+                "Advertising and Marketing",
+                "Corporate Social Responsibility"
+            ],
+            "org_facet": [
+                "Apple Inc",
+                "Twitter"
+            ],
+            "per_facet": [
+                "Musk, Elon",
+                "Cook, Timothy D"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/business/28JPmusk-apple-print/merlin_198661653_abb981d3-fb94-4ec3-8673-d1f487115cc8-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1285,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Elon Musk accused Apple of threatening to withhold Twitter from its App Store.",
+                    "copyright": "Dado Ruvic/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/business/28JPmusk-apple-print/28musk-apple-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Elon Musk accused Apple of threatening to withhold Twitter from its App Store.",
+                    "copyright": "Dado Ruvic/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/business/28JPmusk-apple-print/28musk-apple-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Elon Musk accused Apple of threatening to withhold Twitter from its App Store.",
+                    "copyright": "Dado Ruvic/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3VA9B0F"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Mauna Loa Volcano in Hawaii Erupts for the First Time in Nearly 40 Years",
+            "abstract": "No evacuation orders were issued, but officials advised residents to review their preparedness plans. The volcano last erupted in 1984.",
+            "url": "https://www.nytimes.com/2022/11/28/us/mauna-loa-volcano-eruption-hawaii.html",
+            "uri": "nyt://article/65591aff-1c26-5830-bede-db55d75bb6b3",
+            "byline": "By Derrick Bryson Taylor and Oliver Whang",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T23:27:30-05:00",
+            "created_date": "2022-11-28T10:42:36-05:00",
+            "published_date": "2022-11-28T10:42:36-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Volcanoes",
+                "Earthquakes",
+                "National Parks, Monuments and Seashores"
+            ],
+            "org_facet": [
+                "United States Geological Survey"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Hawaii (The Big Island)",
+                "Hawaii Volcanoes National Park",
+                "Mauna Loa Volcano (Hawaii)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/multimedia/28vid-Mauna-Lao-1-5395/28vid-Mauna-Lao-1-5395-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1153,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Agence France-Presse, via US Geological Survey"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/multimedia/28vid-Mauna-Lao-1-5395/28vid-Mauna-Lao-1-5395-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 401,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Agence France-Presse, via US Geological Survey"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/multimedia/28vid-Mauna-Lao-1-5395/28vid-Mauna-Lao-1-5395-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Agence France-Presse, via US Geological Survey"
+                }
+            ],
+            "short_url": "https://nyti.ms/3XFirw8"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Prince and Princess of Wales to Visit Boston as the Royal Family Recasts Itself",
+            "abstract": "William and Catherine will announce the winners of awards for work on the environment. But their visit is weighted with additional significance.",
+            "url": "https://www.nytimes.com/2022/11/28/us/prince-william-kate-earthshot-boston.html",
+            "uri": "nyt://article/50c0f332-88f7-5350-9e55-848295e49da1",
+            "byline": "By Remy Tumin",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T18:28:34-05:00",
+            "created_date": "2022-11-28T18:28:34-05:00",
+            "published_date": "2022-11-28T18:28:34-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Royal Families",
+                "Awards, Decorations and Honors"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "William, Duke of Cambridge",
+                "Catherine, Duchess of Cambridge"
+            ],
+            "geo_facet": [
+                "Boston (Mass)",
+                "Great Britain"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/28xp-royals3/merlin_213911028_add02d74-e3cd-4769-8a05-4efda8852657-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "William and Catherine, the Prince and Princess of Wales, at St. Thomas Church in Swansea, Wales, in September. They will visit Boston this week.",
+                    "copyright": "Chris Jackson/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/28xp-royals3/28xp-royals3-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "William and Catherine, the Prince and Princess of Wales, at St. Thomas Church in Swansea, Wales, in September. They will visit Boston this week.",
+                    "copyright": "Chris Jackson/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/28xp-royals3/28xp-royals3-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "William and Catherine, the Prince and Princess of Wales, at St. Thomas Church in Swansea, Wales, in September. They will visit Boston this week.",
+                    "copyright": "Chris Jackson/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3OIFm5k"
+        },
+        {
+            "section": "dining",
+            "subsection": "",
+            "title": "Fruitcake Is Delicious, and This Recipe Proves It",
+            "abstract": "Claire Saffitz’s version skips the long aging process, baking up in a day, and doubles down on deliciousness.",
+            "url": "https://www.nytimes.com/2022/11/28/dining/fruitcake-recipe.html",
+            "uri": "nyt://article/eae76c6b-e437-5672-98ec-413e6b5c6178",
+            "byline": "By Claire Saffitz",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T13:30:42-05:00",
+            "created_date": "2022-11-28T12:49:28-05:00",
+            "published_date": "2022-11-28T12:49:28-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Cakes",
+                "Fruit",
+                "Bakeries and Baked Products",
+                "Cooking and Cookbooks"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/30/dining/28fruitcake4/merlin_216823695_83ae538f-2c86-4947-adf8-fc4f9db66c7f-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An apricot jam glaze and a snow-white icing help seal in moisture.",
+                    "copyright": "Bobbi Lin for The New York Times. Food Stylist: Rebecca Jurkevich. Prop Stylist: Christina Lane."
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/30/dining/28fruitcake4/merlin_216823695_83ae538f-2c86-4947-adf8-fc4f9db66c7f-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An apricot jam glaze and a snow-white icing help seal in moisture.",
+                    "copyright": "Bobbi Lin for The New York Times. Food Stylist: Rebecca Jurkevich. Prop Stylist: Christina Lane."
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/30/dining/28fruitcake4/merlin_216823695_83ae538f-2c86-4947-adf8-fc4f9db66c7f-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An apricot jam glaze and a snow-white icing help seal in moisture.",
+                    "copyright": "Bobbi Lin for The New York Times. Food Stylist: Rebecca Jurkevich. Prop Stylist: Christina Lane."
+                }
+            ],
+            "short_url": "https://nyti.ms/3u5bzu7"
+        },
+        {
+            "section": "crosswords",
+            "subsection": "",
+            "title": "Few Wordle Players Use Consistent Starting Words, but When They Do, It’s ADIEU",
+            "abstract": "What the data tells us about how people play the game.",
+            "url": "https://www.nytimes.com/2022/09/01/crosswords/wordle-starting-words-adieu.html",
+            "uri": "nyt://article/f2620fa1-b3df-5849-96cd-58d555181022",
+            "byline": "By Deb Amlen",
+            "item_type": "Article",
+            "updated_date": "2022-09-01T14:40:20-04:00",
+            "created_date": "2022-09-01T09:00:05-04:00",
+            "published_date": "2022-09-01T09:00:05-04:00",
+            "material_type_facet": "",
+            "kicker": "GAMEPLAY",
+            "des_facet": [
+                "Wordle (Puzzle)",
+                "Games"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/25/crosswords/wordle-top/wordle-top-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 683,
+                    "width": 1024,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Wordle gives players six tries to guess the daily word. Only a small number of people go in with a plan.",
+                    "copyright": "Stefani Reynolds/Agence France-Presse, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/25/crosswords/wordle-top/wordle-top-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Wordle gives players six tries to guess the daily word. Only a small number of people go in with a plan.",
+                    "copyright": "Stefani Reynolds/Agence France-Presse, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/25/crosswords/wordle-top/wordle-top-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Wordle gives players six tries to guess the daily word. Only a small number of people go in with a plan.",
+                    "copyright": "Stefani Reynolds/Agence France-Presse, via Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3q2W8kk"
+        }
+    ]
+}

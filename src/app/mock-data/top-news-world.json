@@ -1,0 +1,2213 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "section": "World News",
+    "last_updated": "2022-11-28T20:31:26-05:00",
+    "num_results": 36,
+    "results": [
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "After Deadly Blaze, Surge of Defiance Against China’s Covid Policies",
+            "abstract": "Protests became rare once the government cut off most routes to collective action. But ubiquitous Covid rules, bringing shared suffering, have created a focus for anger.",
+            "url": "https://www.nytimes.com/2022/11/27/world/asia/china-covid-protest.html",
+            "uri": "nyt://article/245c72c4-2f5b-5010-89d2-3b8e0f2d87da",
+            "byline": "By Chris Buckley, Vivian Wang, Chang Che and Amy Chang Chien",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T06:36:14-05:00",
+            "created_date": "2022-11-27T08:48:44-05:00",
+            "published_date": "2022-11-27T08:48:44-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Demonstrations, Protests and Riots",
+                "Coronavirus (2019-nCoV)",
+                "Censorship",
+                "Human Rights and Human Rights Violations",
+                "Shutdowns (Institutional)",
+                "Fires and Firefighters",
+                "Quarantines"
+            ],
+            "org_facet": [
+                "Communist Party of China"
+            ],
+            "per_facet": [
+                "Xi Jinping"
+            ],
+            "geo_facet": [
+                "China",
+                "Urumqi (China)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/china-covid-promo-new/merlin_217527597_d184029b-b8fd-41cb-b280-b3770d799110-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ng Han Guan/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/china-covid-promo-new/merlin_217527597_d184029b-b8fd-41cb-b280-b3770d799110-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ng Han Guan/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/china-covid-promo-new/china-covid-promo-new-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ng Han Guan/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3XOKlpB"
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "Memes, Puns and Blank Sheets of Paper: China’s Creative Acts of Protest",
+            "abstract": "In a country where the authorities have little tolerance for open dissent, demonstrators against Covid restrictions have turned to more subtle methods.",
+            "url": "https://www.nytimes.com/2022/11/28/world/asia/china-protests-blank-sheets.html",
+            "uri": "nyt://article/226f5973-cfc9-5a93-94ad-b3054c613fbc",
+            "byline": "By Chang Che and Amy Chang Chien",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T23:10:49-05:00",
+            "created_date": "2022-11-28T05:57:56-05:00",
+            "published_date": "2022-11-28T05:57:56-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Demonstrations, Protests and Riots",
+                "Censorship",
+                "Coronavirus (2019-nCoV)"
+            ],
+            "org_facet": [
+                "Tsinghua University"
+            ],
+            "per_facet": [
+                "Xi Jinping"
+            ],
+            "geo_facet": [
+                "China"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/China-creative-protest-01/merlin_217451370_7ef49dd9-91a3-440f-9807-ffaec519a377-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A paper placed on a wall during a protest in Shanghai on Sunday read “I didn’t say anything.”",
+                    "copyright": "Hector Retamal/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/China-creative-protest-01/merlin_217451370_7ef49dd9-91a3-440f-9807-ffaec519a377-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A paper placed on a wall during a protest in Shanghai on Sunday read “I didn’t say anything.”",
+                    "copyright": "Hector Retamal/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/China-creative-protest-01/China-creative-protest-01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A paper placed on a wall during a protest in Shanghai on Sunday read “I didn’t say anything.”",
+                    "copyright": "Hector Retamal/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3GRumAH"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Ukraine Warns of More Strikes on Power Plants, as Russians Dig In",
+            "abstract": "Russian forces are fortifying positions in southern Ukraine after retreating from Kherson, and the Kremlin denied planning to withdraw from the Zaporizhzhia nuclear plant.",
+            "url": "https://www.nytimes.com/2022/11/28/world/europe/ukraine-russia-war-kherson.html",
+            "uri": "nyt://article/685c920d-55fe-5394-97cc-af6a584defd8",
+            "byline": "By Matthew Mpoke Bigg, Marc Santora and Maria Varenikova",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T23:12:54-05:00",
+            "created_date": "2022-11-28T19:00:10-05:00",
+            "published_date": "2022-11-28T19:00:10-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "Civilian Casualties"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Kherson (Ukraine)",
+                "Zaporizhzhia (Ukraine)",
+                "Russia",
+                "Ukraine",
+                "Izium (Ukraine)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/28ukraine-ledeall-2/merlin_217467447_37edb797-4e6b-4e3a-be22-a3bc115736e9-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Older residents are evacuated from Kherson on Sunday.",
+                    "copyright": "Bernat Armangue/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/28ukraine-ledeall-2/merlin_217467447_37edb797-4e6b-4e3a-be22-a3bc115736e9-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Older residents are evacuated from Kherson on Sunday.",
+                    "copyright": "Bernat Armangue/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/28ukraine-ledeall-2/28ukraine-ledeall-2-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Older residents are evacuated from Kherson on Sunday.",
+                    "copyright": "Bernat Armangue/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3ED9ZEQ"
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "A Sikh Temple Combats Loneliness With Chai and Laughter",
+            "abstract": "A village in northern India has found a way to address a growing global issue: a deep sense of isolation among older people.",
+            "url": "https://www.nytimes.com/2022/11/28/world/asia/india-punjab-elderly-loneliness.html",
+            "uri": "nyt://article/306e25ed-1d9b-5d04-81fd-af0f4761da99",
+            "byline": "By Karan Deep Singh",
+            "item_type": "Article",
+            "updated_date": "2022-11-29T00:15:05-05:00",
+            "created_date": "2022-11-28T11:58:30-05:00",
+            "published_date": "2022-11-28T11:58:30-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Loneliness",
+                "Elderly",
+                "Agriculture and Farming",
+                "Sikhs and Sikhism",
+                "Temples (Religious)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "India",
+                "Punjab (India)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/24/world/00india-loneliness-01/merlin_211259625_cf02299a-a604-4dd8-a1fa-97fe2471743f-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Karnail Singh Kakkar, in orange, with his friends at a village temple in Kakkar, northern India. The village began its experiment in dealing with the loneliness of older residents almost a decade ago.",
+                    "copyright": "Atul Loke for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/24/world/00india-loneliness-01/merlin_211259625_cf02299a-a604-4dd8-a1fa-97fe2471743f-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Karnail Singh Kakkar, in orange, with his friends at a village temple in Kakkar, northern India. The village began its experiment in dealing with the loneliness of older residents almost a decade ago.",
+                    "copyright": "Atul Loke for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/24/world/00india-loneliness-01/00india-loneliness-01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Karnail Singh Kakkar, in orange, with his friends at a village temple in Kakkar, northern India. The village began its experiment in dealing with the loneliness of older residents almost a decade ago.",
+                    "copyright": "Atul Loke for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3AQBXMa"
+        },
+        {
+            "section": "",
+            "subsection": "",
+            "title": "",
+            "abstract": "",
+            "url": "",
+            "uri": "nyt://promo/9925b7ef-2195-5db4-88a8-454d3bac63e9",
+            "byline": "",
+            "item_type": "Promo",
+            "updated_date": "2022-11-29T01:05:12-05:00",
+            "created_date": "2022-11-28T06:08:43-05:00",
+            "published_date": "2022-11-28T06:08:43-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/world/28ukraine-briefing-promo01/merlin_217445031_60db5ae1-c610-4852-9909-8d54daf0c155-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Tyler Hicks/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/world/28ukraine-briefing-promo01/merlin_217445031_60db5ae1-c610-4852-9909-8d54daf0c155-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Tyler Hicks/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/world/28ukraine-briefing-promo01/merlin_217445031_60db5ae1-c610-4852-9909-8d54daf0c155-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Tyler Hicks/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "For Putin’s Opponents, Exile From Russia Proves a Boon",
+            "abstract": "The political network of Aleksei A. Navalny, the imprisoned opposition leader, had seemingly been crushed. But working from abroad, the Navalny team is using YouTube to spearhead antiwar efforts.",
+            "url": "https://www.nytimes.com/2022/11/28/world/europe/russia-navalny-youtube-exiles.html",
+            "uri": "nyt://article/233329c5-6cb7-5fcd-a310-044dbebd1667",
+            "byline": "By Neil MacFarquhar",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T23:13:46-05:00",
+            "created_date": "2022-11-28T10:16:41-05:00",
+            "published_date": "2022-11-28T10:16:41-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "Political Prisoners"
+            ],
+            "org_facet": [
+                "YouTube.com"
+            ],
+            "per_facet": [
+                "Putin, Vladimir V",
+                "Navalny, Aleksei A"
+            ],
+            "geo_facet": [
+                "Russia",
+                "Vilnius (Lithuania)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/world/27russia-exiles-1/merlin_217239579_bf5214d5-c2c2-47f6-ad49-4b1c283e4c5c-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Irina Alleman, left, interviewing a Russian journalist, Tikhon Dzyadko, in Vilnius, Lithuania, on Popular Politics, a new YouTube channel run by the Russian opposition movement founded by Aleksei Navalny.",
+                    "copyright": "Andrej Vasilenko for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/world/27russia-exiles-1/merlin_217239579_bf5214d5-c2c2-47f6-ad49-4b1c283e4c5c-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Irina Alleman, left, interviewing a Russian journalist, Tikhon Dzyadko, in Vilnius, Lithuania, on Popular Politics, a new YouTube channel run by the Russian opposition movement founded by Aleksei Navalny.",
+                    "copyright": "Andrej Vasilenko for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/world/27russia-exiles-1/27russia-exiles-1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Irina Alleman, left, interviewing a Russian journalist, Tikhon Dzyadko, in Vilnius, Lithuania, on Popular Politics, a new YouTube channel run by the Russian opposition movement founded by Aleksei Navalny.",
+                    "copyright": "Andrej Vasilenko for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3u4XiOb"
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "A Protest? A Vigil? In Beijing, Anxious Crowds Are Unsure How Far to Go.",
+            "abstract": "In a country where protests are swiftly quashed, many who gathered to voice their discontent — under the watchful eye of the police — were uncertain about how far to go.",
+            "url": "https://www.nytimes.com/2022/11/28/world/asia/china-protests-covid-beijing.html",
+            "uri": "nyt://article/e365e2f0-53bf-56fa-bdc3-6b41ed850f73",
+            "byline": "By Vivian Wang",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T23:05:15-05:00",
+            "created_date": "2022-11-28T11:28:09-05:00",
+            "published_date": "2022-11-28T11:28:09-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Demonstrations, Protests and Riots",
+                "Police",
+                "Censorship",
+                "Freedom of the Press"
+            ],
+            "org_facet": [
+                "Tsinghua University"
+            ],
+            "per_facet": [
+                "Xi Jinping"
+            ],
+            "geo_facet": [
+                "China",
+                "Beijing (China)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/12/28/world/28china-protest-scene-2/28china-protest-scene-2-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Thomas Peter/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/12/28/world/28china-protest-scene-2/28china-protest-scene-2-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Thomas Peter/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/12/28/world/28china-protest-scene-2/28china-protest-scene-2-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Thomas Peter/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3u7MjDz"
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "A U.S.-Iran Soccer Showdown Intensifies With Protests as a Backdrop",
+            "abstract": "The unrest that has gripped Iran for the past two months has heightened what would already have been a tense encounter at the World Cup in Qatar on Tuesday between the two geopolitical foes.",
+            "url": "https://www.nytimes.com/2022/11/28/world/middleeast/iran-us-soccer-protests.html",
+            "uri": "nyt://article/4cd4ab06-1284-54fd-80ce-1186e98d9057",
+            "byline": "By Vivian Yee",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T23:36:46-05:00",
+            "created_date": "2022-11-28T13:13:43-05:00",
+            "published_date": "2022-11-28T13:13:43-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Politics and Government",
+                "United States International Relations",
+                "Demonstrations, Protests and Riots",
+                "Soccer",
+                "National Anthems",
+                "World Cup 2022 (Soccer)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Qatar",
+                "Iran"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/world/29JPworldcup-qatar-iran1-print/merlin_217352751_01924c9a-550d-480d-94c4-76512e20f969-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1275,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Iran’s players during the singing of the national anthem ahead of their match with Wales at the World Cup in Al Rayyan, Qatar, on Friday.",
+                    "copyright": "Frank Augstein/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/world/29JPworldcup-qatar-iran1-print/28qatar-iran-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Iran’s players during the singing of the national anthem ahead of their match with Wales at the World Cup in Al Rayyan, Qatar, on Friday.",
+                    "copyright": "Frank Augstein/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/world/29JPworldcup-qatar-iran1-print/28qatar-iran-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Iran’s players during the singing of the national anthem ahead of their match with Wales at the World Cup in Al Rayyan, Qatar, on Friday.",
+                    "copyright": "Frank Augstein/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3OMI21V"
+        },
+        {
+            "section": "world",
+            "subsection": "africa",
+            "title": "Nine Civilians Killed in Militant Siege at a Mogadishu Hotel",
+            "abstract": "An extremist group, Al Shabab, claimed responsibility for the 22-hour gun-and-bomb assault in the Somali capital, which ended with the death of all six attackers.",
+            "url": "https://www.nytimes.com/2022/11/27/world/africa/mogadishu-shabab-hotel.html",
+            "uri": "nyt://article/8b6a48fb-91ce-5bfe-ba8d-20880c4d5085",
+            "byline": "By Hussein Mohamed and Declan Walsh",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T23:11:56-05:00",
+            "created_date": "2022-11-27T17:36:53-05:00",
+            "published_date": "2022-11-27T17:36:53-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Terrorism"
+            ],
+            "org_facet": [
+                "Shabab",
+                "Villa Rosa (Mogadishu, Somalia, Hotel)"
+            ],
+            "per_facet": [
+                "Mohamud, Hassan Sheikh"
+            ],
+            "geo_facet": [
+                "Mogadishu (Somalia)",
+                "Somalia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/world/27somalia-01/27somalia-01-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Central Mogadishu this month. As the Somali government has stepped up military operations against Al Shabab, the militants have escalated their bombing campaign in the capital.",
+                    "copyright": "Guy Peterson/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/world/27somalia-01/27somalia-01-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Central Mogadishu this month. As the Somali government has stepped up military operations against Al Shabab, the militants have escalated their bombing campaign in the capital.",
+                    "copyright": "Guy Peterson/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/world/27somalia-01/27somalia-01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Central Mogadishu this month. As the Somali government has stepped up military operations against Al Shabab, the militants have escalated their bombing campaign in the capital.",
+                    "copyright": "Guy Peterson/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3ijmAFv"
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "China Protests Break Out as Covid Cases Surge and Lockdowns Persist",
+            "abstract": "After a weekend of confrontations between officials and demonstrators, video from two sites in Shanghai and Beijing showed a heavy security presence. Here’s the latest on the situation.",
+            "url": "https://www.nytimes.com/article/china-covid-protests.html",
+            "uri": "nyt://article/74f1f6cd-cd25-56fc-a83c-8c646e913119",
+            "byline": "By Vivek Shankar",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T23:11:27-05:00",
+            "created_date": "2022-11-28T05:10:46-05:00",
+            "published_date": "2022-11-28T05:10:46-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Demonstrations, Protests and Riots",
+                "International Relations",
+                "Economic Conditions and Trends",
+                "Coronavirus (2019-nCoV)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Xi Jinping"
+            ],
+            "geo_facet": [
+                "China",
+                "Shanghai (China)",
+                "Urumqi (China)",
+                "Xinjiang (China)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/china-covid-promo-new/merlin_217527597_d184029b-b8fd-41cb-b280-b3770d799110-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ng Han Guan/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/china-covid-promo-new/merlin_217527597_d184029b-b8fd-41cb-b280-b3770d799110-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ng Han Guan/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/china-covid-promo-new/china-covid-promo-new-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ng Han Guan/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3uaPMBe"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Amid Scandals and Politics, Poland’s Youths Lose Faith in Catholic Church",
+            "abstract": "The Polish church is in a deep crisis, as its authority is sapped by cascading sexual abuse scandals and as more people grow wary of its perceived alliance with the country’s right-wing government.",
+            "url": "https://www.nytimes.com/2022/11/28/world/europe/poland-catholic-church-youth.html",
+            "uri": "nyt://article/0b8c0e48-191e-5436-a9bd-1ba039b263c7",
+            "byline": "By Andrew Higgins",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T09:00:16-05:00",
+            "created_date": "2022-11-28T03:00:17-05:00",
+            "published_date": "2022-11-28T03:00:17-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Priests",
+                "Sex Crimes",
+                "Child Abuse and Neglect",
+                "Religion and Belief",
+                "Politics and Government",
+                "Abortion"
+            ],
+            "org_facet": [
+                "Roman Catholic Church",
+                "Law and Justice (Poland)",
+                "Solidarity (Poland)"
+            ],
+            "per_facet": [
+                "Kaczynski, Jaroslaw",
+                "Francis"
+            ],
+            "geo_facet": [
+                "Poland"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/23/world/00poland-church/merlin_213596598_62289f07-97e0-45d0-aaad-ee83c17c7cde-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Parishioners in Piaski, Poland, celebrating the visit of a copy of a revered Polish icon, the Black Madonna of Czestochowa, in September.",
+                    "copyright": "Maciek Nabrdalik for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/23/world/00poland-church/00poland-church-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Parishioners in Piaski, Poland, celebrating the visit of a copy of a revered Polish icon, the Black Madonna of Czestochowa, in September.",
+                    "copyright": "Maciek Nabrdalik for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/23/world/00poland-church/00poland-church-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Parishioners in Piaski, Poland, celebrating the visit of a copy of a revered Polish icon, the Black Madonna of Czestochowa, in September.",
+                    "copyright": "Maciek Nabrdalik for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3i8oNUg"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "He Never Denied Selling Drugs. But Britain Says He’s a Slave Master, Too.",
+            "abstract": "A law written to prevent human trafficking is being wielded against low-level drug dealers. The effects are long-lasting.",
+            "url": "https://www.nytimes.com/2022/11/27/world/europe/uk-drug-dealer-slave-master.html",
+            "uri": "nyt://article/946909fb-2528-5bbb-9364-923954c02645",
+            "byline": "By Selam Gebrekidan",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T06:20:53-05:00",
+            "created_date": "2022-11-27T05:03:07-05:00",
+            "published_date": "2022-11-27T05:03:07-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Drug Abuse and Traffic",
+                "Human Trafficking",
+                "Discrimination",
+                "Black People",
+                "Criminal Justice",
+                "Ex-Convicts",
+                "Content Type: Personal Profile",
+                "Children and Childhood",
+                "Law and Legislation"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Wabelua, Glodi"
+            ],
+            "geo_facet": [
+                "Great Britain"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/16/world/16uk-modernslavery1/merlin_216427209_40064fa3-ab22-49ae-ac4a-dc26b7521409-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1363,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Glodi Wabelua was serving a prison sentence for drug dealing when he was charged and tried under Britain’s Modern Slavery Act.",
+                    "copyright": "Mary Turner for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/16/world/16uk-modernslavery1/16uk-modernslavery1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Glodi Wabelua was serving a prison sentence for drug dealing when he was charged and tried under Britain’s Modern Slavery Act.",
+                    "copyright": "Mary Turner for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/16/world/16uk-modernslavery1/16uk-modernslavery1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Glodi Wabelua was serving a prison sentence for drug dealing when he was charged and tried under Britain’s Modern Slavery Act.",
+                    "copyright": "Mary Turner for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3u3Bgvf"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "In Ukraine, Bakhmut Becomes a Bloody Vortex for 2 Militaries",
+            "abstract": "Even as they have celebrated successes elsewhere, Ukrainian forces in one small eastern city have endured relentless Russian attacks. And the struggle to hold it is only intensifying.",
+            "url": "https://www.nytimes.com/2022/11/27/world/europe/ukraine-war-bakhmut.html",
+            "uri": "nyt://article/555a6af7-b565-5e5b-a831-1fa13a387af5",
+            "byline": "By Thomas Gibbons-Neff, Natalia Yermak and Tyler Hicks",
+            "item_type": "Article",
+            "updated_date": "2022-11-27T23:32:32-05:00",
+            "created_date": "2022-11-27T12:08:47-05:00",
+            "published_date": "2022-11-27T12:08:47-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Defense and Military Forces",
+                "Russian Invasion of Ukraine (2022)",
+                "Mercenaries and Private Military Contractors"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Bakhmut (Ukraine)",
+                "Russia",
+                "Ukraine"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/world/27ukraine-bakhmut-promo/merlin_217445094_6d630fd3-7625-4d0d-9228-aedf5d53c5db-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Tyler Hicks/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/world/27ukraine-bakhmut-promo/merlin_217445094_6d630fd3-7625-4d0d-9228-aedf5d53c5db-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Tyler Hicks/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/world/27ukraine-bakhmut-promo/27ukraine-bakhmut05-promo-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Tyler Hicks/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3F79Efa"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "When Visiting Michelangelo’s David, She Brings a Duster",
+            "abstract": "The revered statue in Italy is not going to dust itself. That’s where Eleonora Pucci comes in.",
+            "url": "https://www.nytimes.com/2022/11/28/world/europe/italy-michelangelo-david.html",
+            "uri": "nyt://article/9c4dcc59-2401-5254-82f0-15f58c7f8aef",
+            "byline": "By Elisabetta Povoledo",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T11:47:04-05:00",
+            "created_date": "2022-11-28T03:00:16-05:00",
+            "published_date": "2022-11-28T03:00:16-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Sculpture",
+                "Museums",
+                "vis-photo"
+            ],
+            "org_facet": [
+                "Accademia Gallery"
+            ],
+            "per_facet": [
+                "Buonarroti, Michelangelo"
+            ],
+            "geo_facet": [
+                "Florence (Italy)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/23/world/00italy-david/merlin_217173384_22426099-d47c-49e4-983e-2a5e5c41e10b-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Eleonora Pucci at work last week in the Galleria dell’Accademia in Florence, Italy.",
+                    "copyright": "Chiara Negrello for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/23/world/00italy-david/merlin_217173384_22426099-d47c-49e4-983e-2a5e5c41e10b-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Eleonora Pucci at work last week in the Galleria dell’Accademia in Florence, Italy.",
+                    "copyright": "Chiara Negrello for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/23/world/00italy-david/00italy-david-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Eleonora Pucci at work last week in the Galleria dell’Accademia in Florence, Italy.",
+                    "copyright": "Chiara Negrello for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3VBWhcl"
+        },
+        {
+            "section": "briefing",
+            "subsection": "",
+            "title": "Your Tuesday Briefing",
+            "abstract": "Ukrainian military officials say Russia is planning more strikes on infrastructure.",
+            "url": "https://www.nytimes.com/2022/11/29/briefing/ukraine-attacks-china-protests.html",
+            "uri": "nyt://article/b875d67c-26de-58f8-8008-04d3fb4ad1cf",
+            "byline": "By Natasha Frost",
+            "item_type": "Article",
+            "updated_date": "2022-11-29T01:14:08-05:00",
+            "created_date": "2022-11-29T00:54:14-05:00",
+            "published_date": "2022-11-29T00:54:14-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/29ambriefing-europe-nl-ukraine-promo/29ambriefing-europe-nl-ukraine-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Older residents are evacuated from Kherson, Ukraine, on Sunday.",
+                    "copyright": "Bernat Armangue/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/29ambriefing-europe-nl-ukraine-promo/29ambriefing-europe-nl-ukraine-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Older residents are evacuated from Kherson, Ukraine, on Sunday.",
+                    "copyright": "Bernat Armangue/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/29ambriefing-europe-nl-ukraine-promo/28ukraine-ledeall-2-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Older residents are evacuated from Kherson, Ukraine, on Sunday.",
+                    "copyright": "Bernat Armangue/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3AOVYCH"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Russian Retreat Reveals Signs of an Atrocity in a Ukrainian Village",
+            "abstract": "In the southern Kherson region, the pattern seen in eastern Ukraine is repeating: The withdrawal of Russian forces yields evidence of possible war crimes.",
+            "url": "https://www.nytimes.com/2022/11/29/world/europe/ukraine-russia-pravdyne-grave.html",
+            "uri": "nyt://article/49eaa768-aecc-5f70-ad0f-04db56613a4c",
+            "byline": "By Jeffrey Gettleman and Finbarr O’Reilly",
+            "item_type": "Article",
+            "updated_date": "2022-11-29T02:10:10-05:00",
+            "created_date": "2022-11-29T00:01:10-05:00",
+            "published_date": "2022-11-29T00:01:10-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "War Crimes, Genocide and Crimes Against Humanity",
+                "Civilian Casualties"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Kherson (Ukraine)",
+                "Pravdyne (Ukraine)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/28kherson-grave-promo2/merlin_217540356_c1b9bd41-97e4-4ef3-8a6f-90e1c892e8e2-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Workers exhuming bodies from a communal grave in the southern Ukrainian village of Pravdyne.",
+                    "copyright": "Finbarr O'Reilly for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/28kherson-grave-promo2/merlin_217540356_c1b9bd41-97e4-4ef3-8a6f-90e1c892e8e2-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Workers exhuming bodies from a communal grave in the southern Ukrainian village of Pravdyne.",
+                    "copyright": "Finbarr O'Reilly for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/28kherson-grave-promo2/28kherson-grave-promo2-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Workers exhuming bodies from a communal grave in the southern Ukrainian village of Pravdyne.",
+                    "copyright": "Finbarr O'Reilly for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3u5lRdY"
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "China to Launch 3 Astronauts to New Space Station: How to Watch",
+            "abstract": "The crew will set off from a secretive desert launch center to rendezvous with fellow astronauts aboard Tiangong, the country’s newly completed outpost in orbit.",
+            "url": "https://www.nytimes.com/2022/11/29/world/asia/china-space-launch-astronauts.html",
+            "uri": "nyt://article/5139a1c2-dd63-5f88-86bb-7b18b4975f30",
+            "byline": "By Keith Bradsher",
+            "item_type": "Article",
+            "updated_date": "2022-11-29T02:13:33-05:00",
+            "created_date": "2022-11-29T00:00:09-05:00",
+            "published_date": "2022-11-29T00:00:09-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Tiangong Space Program",
+                "Space and Astronomy",
+                "Rocket Science and Propulsion",
+                "International Relations",
+                "International Space Station",
+                "Research"
+            ],
+            "org_facet": [
+                "China Manned Space Agency"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "China"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/science/29china-launch-01/29china-launch-01-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1640,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Long March-2F rocket, carrying the Shenzhou 15 spacecraft, at Jiuquan Satellite Launch Center in China last week.",
+                    "copyright": "via Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/science/29china-launch-01/29china-launch-01-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Long March-2F rocket, carrying the Shenzhou 15 spacecraft, at Jiuquan Satellite Launch Center in China last week.",
+                    "copyright": "via Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/science/29china-launch-01/29china-launch-01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Long March-2F rocket, carrying the Shenzhou 15 spacecraft, at Jiuquan Satellite Launch Center in China last week.",
+                    "copyright": "via Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Vyu6e1"
+        },
+        {
+            "section": "briefing",
+            "subsection": "",
+            "title": "Your Tuesday Briefing: Anxiety in China",
+            "abstract": "Plus Ukraine updates, a U.S.-Iran World Cup preview and a “She Said” interview.",
+            "url": "https://www.nytimes.com/2022/11/28/briefing/covid-protests-china-beijing-asia.html",
+            "uri": "nyt://article/c2a05406-b7ec-514a-907e-f32400750017",
+            "byline": "By Amelia Nierenberg",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T17:43:39-05:00",
+            "created_date": "2022-11-28T17:43:39-05:00",
+            "published_date": "2022-11-28T17:43:39-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "She Said: Breaking the Sexual Harassment Story That Helped Ignite a Movement (Book)",
+                "International Relations",
+                "Demonstrations, Protests and Riots",
+                "Russian Invasion of Ukraine (2022)",
+                "Coronavirus (2019-nCoV)",
+                "World Cup (Soccer)"
+            ],
+            "org_facet": [
+                "Zaporizhzhia Power Plant (Ukraine)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Beijing (China)",
+                "China",
+                "Zaporizhzhia (Ukraine)",
+                "United States",
+                "Iran"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/us/112922ambriefing-asia-promo/29ambriefing-asia-china2-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1638,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "People held up a white piece of paper against censorship during a protest in Beijing on Sunday.",
+                    "copyright": "Kevin Frayer/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/us/112922ambriefing-asia-promo/29ambriefing-asia-china2-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "People held up a white piece of paper against censorship during a protest in Beijing on Sunday.",
+                    "copyright": "Kevin Frayer/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/us/112922ambriefing-asia-promo/29ambriefing-asia-china2-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "People held up a white piece of paper against censorship during a protest in Beijing on Sunday.",
+                    "copyright": "Kevin Frayer/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3AUEAg1"
+        },
+        {
+            "section": "business",
+            "subsection": "economy",
+            "title": "Chinese Unrest Over Lockdown Upends Global Economic Outlook",
+            "abstract": "Growing protests in the world’s biggest manufacturing nation add a new element of uncertainty atop the Ukraine war, an energy crisis and inflation.",
+            "url": "https://www.nytimes.com/2022/11/28/business/economy/china-unrest-global-economy.html",
+            "uri": "nyt://article/07bd79d9-c215-58c2-a07c-b423b6d1cd5d",
+            "byline": "By Patricia Cohen",
+            "item_type": "Article",
+            "updated_date": "2022-11-29T02:07:25-05:00",
+            "created_date": "2022-11-28T16:48:59-05:00",
+            "published_date": "2022-11-28T16:48:59-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "International Trade and World Market",
+                "Economic Conditions and Trends",
+                "Coronavirus (2019-nCoV)",
+                "Supply Chain",
+                "Prices (Fares, Fees and Rates)",
+                "Oil (Petroleum) and Gasoline",
+                "Factories and Manufacturing"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "China"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/business/28global-econ-china-1/28global-econ-china-1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Demonstrators in Beijing held blank pieces of paper to protest censorship as unrest in China over Covid-19 lockdowns grew on Sunday.",
+                    "copyright": "Kevin Frayer/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/business/28global-econ-china-1/28global-econ-china-1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Demonstrators in Beijing held blank pieces of paper to protest censorship as unrest in China over Covid-19 lockdowns grew on Sunday.",
+                    "copyright": "Kevin Frayer/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/business/28global-econ-china-1/28global-econ-china-1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Demonstrators in Beijing held blank pieces of paper to protest censorship as unrest in China over Covid-19 lockdowns grew on Sunday.",
+                    "copyright": "Kevin Frayer/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3OG9u1v"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Russia postpones a meeting on a nuclear arms control treaty, U.S. officials say.",
+            "abstract": "The treaty,  New START, calls for reciprocal inspections, but they have not been occurring, first because of the coronavirus pandemic, and now amid tensions over U.S. sanctions on Russia.",
+            "url": "https://www.nytimes.com/2022/11/28/world/europe/russia-nuclear-arms-control-treaty.html",
+            "uri": "nyt://article/b45380ea-5656-5549-80b2-fd6d9ed91ea5",
+            "byline": "By Michael Crowley",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T19:40:30-05:00",
+            "created_date": "2022-11-28T15:04:37-05:00",
+            "published_date": "2022-11-28T15:04:37-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/04/11/world/28ukraine-briefing-us-russia-weapons-inspections/11ukraine-blog-nuclear-weapons02-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A monument to Russia’s nuclear weapons history in Moscow. The country postponed a meeting with officials from the United States to discuss the last remaining nuclear treaty between the two nations.",
+                    "copyright": "Maxim Shipenkov/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/04/11/world/28ukraine-briefing-us-russia-weapons-inspections/11ukraine-blog-nuclear-weapons02-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A monument to Russia’s nuclear weapons history in Moscow. The country postponed a meeting with officials from the United States to discuss the last remaining nuclear treaty between the two nations.",
+                    "copyright": "Maxim Shipenkov/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/04/11/world/28ukraine-briefing-us-russia-weapons-inspections/11ukraine-blog-nuclear-weapons02-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A monument to Russia’s nuclear weapons history in Moscow. The country postponed a meeting with officials from the United States to discuss the last remaining nuclear treaty between the two nations.",
+                    "copyright": "Maxim Shipenkov/EPA, via Shutterstock"
+                }
+            ],
+            "short_url": "https://nyti.ms/3ATwxjC"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Monkeypox Has a New Name: Mpox",
+            "abstract": "Health experts said the old nomenclature was imprecise, played into racist stereotypes and fueled stigmatization, making it harder to contain the most recent outbreaks.",
+            "url": "https://www.nytimes.com/2022/11/28/health/monkeypox-mpox-who.html",
+            "uri": "nyt://article/c35a39e7-5910-51e9-8e85-7a95c2003a7a",
+            "byline": "By Andrew Jacobs",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T23:11:39-05:00",
+            "created_date": "2022-11-28T11:58:31-05:00",
+            "published_date": "2022-11-28T11:58:31-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Monkeypox",
+                "Discrimination",
+                "Race and Ethnicity",
+                "Black People",
+                "Disease Rates",
+                "Viruses",
+                "Infections"
+            ],
+            "org_facet": [
+                "World Health Organization"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Africa",
+                "Europe",
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/science/28WHO-MPOX-01/28WHO-MPOX-01-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An electron micrograph of monkeypox particles, in pink, within an infected cell, in green.",
+                    "copyright": "N.I.H./Universal Images Group, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/science/28WHO-MPOX-01/28WHO-MPOX-01-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An electron micrograph of monkeypox particles, in pink, within an infected cell, in green.",
+                    "copyright": "N.I.H./Universal Images Group, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/science/28WHO-MPOX-01/28WHO-MPOX-01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An electron micrograph of monkeypox particles, in pink, within an infected cell, in green.",
+                    "copyright": "N.I.H./Universal Images Group, via Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Vazkgm"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Russia Fortifies Defenses in Southern Ukraine, Analysts Say",
+            "abstract": "The Institute for the Study of War said Russia appears to view the prospect of a Ukrainian counteroffensive as a serious threat after Moscow pulled back from Kherson.",
+            "url": "https://www.nytimes.com/2022/11/28/world/europe/russia-ukraine-kherson-defense.html",
+            "uri": "nyt://article/943f60b2-0dd8-5d26-b364-26fc53089afc",
+            "byline": "By Matthew Mpoke Bigg",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T12:17:32-05:00",
+            "created_date": "2022-11-28T11:01:18-05:00",
+            "published_date": "2022-11-28T11:01:18-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "Defense and Military Forces"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Dnipro River (Ukraine)",
+                "Kherson (Ukraine)",
+                "Ukraine"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/28ukraine-briefing-kherson-defense/merlin_216738015_4bc0420b-3edb-4d82-abed-979608d28ae0-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Antonivsky Bridge, which was destroyed by retreating Russian forces, earlier this month in the southern Ukrainian city of Kherson.",
+                    "copyright": "Finbarr O'Reilly for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/28ukraine-briefing-kherson-defense/merlin_216738015_4bc0420b-3edb-4d82-abed-979608d28ae0-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Antonivsky Bridge, which was destroyed by retreating Russian forces, earlier this month in the southern Ukrainian city of Kherson.",
+                    "copyright": "Finbarr O'Reilly for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/28ukraine-briefing-kherson-defense/merlin_216738015_4bc0420b-3edb-4d82-abed-979608d28ae0-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Antonivsky Bridge, which was destroyed by retreating Russian forces, earlier this month in the southern Ukrainian city of Kherson.",
+                    "copyright": "Finbarr O'Reilly for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3VxzPkn"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Belarus’s architect of Western outreach dies suddenly, state media reports.",
+            "abstract": "Vladimir Makei served 10 years as the foreign minister of Belarus, a key geopolitical battleground between Russia and the West.",
+            "url": "https://www.nytimes.com/2022/11/28/world/europe/belarus-minister-makei-dead.html",
+            "uri": "nyt://article/1021dacb-baea-5dfd-b33a-b903a4dbb110",
+            "byline": "By Anatoly Kurmanaev and Andrew Higgins",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T19:07:13-05:00",
+            "created_date": "2022-11-28T10:29:39-05:00",
+            "published_date": "2022-11-28T10:29:39-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Belarus"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/28ukraine-briefing-belarus-foreign-minister/merlin_217387308_a074fab0-8a40-4a07-83c9-618a9451ba48-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vladimir Makei in Kyiv, Belarus, in February.",
+                    "copyright": "Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/28ukraine-briefing-belarus-foreign-minister/merlin_217387308_a074fab0-8a40-4a07-83c9-618a9451ba48-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vladimir Makei in Kyiv, Belarus, in February.",
+                    "copyright": "Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/28ukraine-briefing-belarus-foreign-minister/28ukraine-briefing-belarus-foreign-minister-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vladimir Makei in Kyiv, Belarus, in February.",
+                    "copyright": "Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3ARitHb"
+        },
+        {
+            "section": "briefing",
+            "subsection": "",
+            "title": "Pandemic Learning Loss",
+            "abstract": "The role remote education played.",
+            "url": "https://www.nytimes.com/2022/11/28/briefing/pandemic-learning-loss.html",
+            "uri": "nyt://article/89082e43-1dd7-526c-afb3-bcafb34013aa",
+            "byline": "By Sarah Mervosh",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T06:34:23-05:00",
+            "created_date": "2022-11-28T06:26:22-05:00",
+            "published_date": "2022-11-28T06:26:22-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "internal-storyline-no",
+                "Midterm Elections (2022)",
+                "Shutdowns (Institutional)",
+                "Education",
+                "Mathematics",
+                "Poverty"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/24/us/28-THE-MORNING-NL-promo/24NAEP-top-1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pre Calculus Class at George Washington High School in San Francisco in 2021.",
+                    "copyright": "Jim Wilson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/24/us/28-THE-MORNING-NL-promo/24NAEP-top-1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pre Calculus Class at George Washington High School in San Francisco in 2021.",
+                    "copyright": "Jim Wilson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/24/us/28-THE-MORNING-NL-promo/24NAEP-top-1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pre Calculus Class at George Washington High School in San Francisco in 2021.",
+                    "copyright": "Jim Wilson/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3UbsYMA"
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "3 Weeks After Hack, This Country’s Government Is Still Off-line",
+            "abstract": "The Pacific Island nation of Vanuatu has said little about a Nov. 6 cyberattack that has significantly inconvenienced many of its 320,000 people.",
+            "url": "https://www.nytimes.com/2022/11/28/world/asia/vanuatu-hack-cyberattack.html",
+            "uri": "nyt://article/76b6235b-ba9c-53b0-9106-08e3ea524219",
+            "byline": "By Yan Zhuang",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T21:21:06-05:00",
+            "created_date": "2022-11-28T05:42:07-05:00",
+            "published_date": "2022-11-28T05:42:07-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Cyberattacks and Hackers",
+                "Cyberwarfare and Defense"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Vanuatu"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/28vanuatu-hack-2/merlin_165802029_81e26933-1ea0-4e44-96ad-92dc01f46f72-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1282,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A local news outlet called the cyberattack in Vanuatu “our worst kept secret.”",
+                    "copyright": "Mario Tama/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/28vanuatu-hack-2/28vanuatu-hack-2-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A local news outlet called the cyberattack in Vanuatu “our worst kept secret.”",
+                    "copyright": "Mario Tama/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/28vanuatu-hack-2/28vanuatu-hack-2-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A local news outlet called the cyberattack in Vanuatu “our worst kept secret.”",
+                    "copyright": "Mario Tama/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3VeRiya"
+        },
+        {
+            "section": "briefing",
+            "subsection": "",
+            "title": "Your Monday Briefing",
+            "abstract": "Anger over Covid restrictions in China has created a crisis for its leader, Xi Jinping.",
+            "url": "https://www.nytimes.com/2022/11/28/briefing/china-protests-covid-ukraine-drugs-britain.html",
+            "uri": "nyt://article/f308fd8c-e6d9-5f00-9d70-63b6c411cf33",
+            "byline": "By Natasha Frost",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T01:18:34-05:00",
+            "created_date": "2022-11-28T01:05:46-05:00",
+            "published_date": "2022-11-28T01:05:46-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/world/28ambriefing-europe-nl-promo-nov/28ambriefing-europe-nl-china-covid-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Police officers on Sunday blocked Urumqi Road, where protests had taken place the night before.",
+                    "copyright": "Hector Retamal/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/world/28ambriefing-europe-nl-promo-nov/28ambriefing-europe-nl-china-covid-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Police officers on Sunday blocked Urumqi Road, where protests had taken place the night before.",
+                    "copyright": "Hector Retamal/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/world/28ambriefing-europe-nl-promo-nov/28ambriefing-europe-nl-china-covid-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Police officers on Sunday blocked Urumqi Road, where protests had taken place the night before.",
+                    "copyright": "Hector Retamal/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3VeVzBM"
+        },
+        {
+            "section": "world",
+            "subsection": "americas",
+            "title": "Mexico’s President Leads Supporters in March Through Capital",
+            "abstract": "Tens of thousands of Mexicans walked through the streets Sunday to show their support for President Andrés Manuel López Obrador amid some pushback to his political agenda in recent weeks.",
+            "url": "https://www.nytimes.com/2022/11/27/world/americas/mexico-amlo-march.html",
+            "uri": "nyt://article/7ebe5bfb-00fb-52b1-afa5-eb952d157e6b",
+            "byline": "By Steve Fisher and Maria Abi-Habib",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T11:47:58-05:00",
+            "created_date": "2022-11-27T19:47:36-05:00",
+            "published_date": "2022-11-27T19:47:36-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Demonstrations, Protests and Riots",
+                "Politics and Government"
+            ],
+            "org_facet": [
+                "Morena (Mexican Political Party)"
+            ],
+            "per_facet": [
+                "Lopez Obrador, Andres Manuel"
+            ],
+            "geo_facet": [
+                "Mexico",
+                "Mexico City (Mexico)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/multimedia/27mexico-protests-01-1-8bf9/27mexico-protests-01-1-8bf9-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Andres Manuel Lopez Obrador, Mexico’s president, during a rally in support of the proposed electoral reform in Mexico City, Mexico on Sunday.",
+                    "copyright": "Luis Antonio Rojas for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/multimedia/27mexico-protests-01-1-8bf9/27mexico-protests-01-1-8bf9-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Andres Manuel Lopez Obrador, Mexico’s president, during a rally in support of the proposed electoral reform in Mexico City, Mexico on Sunday.",
+                    "copyright": "Luis Antonio Rojas for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/multimedia/27mexico-protests-01-1-8bf9/27mexico-protests-01-1-8bf9-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Andres Manuel Lopez Obrador, Mexico’s president, during a rally in support of the proposed electoral reform in Mexico City, Mexico on Sunday.",
+                    "copyright": "Luis Antonio Rojas for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3gA9tj7"
+        },
+        {
+            "section": "world",
+            "subsection": "africa",
+            "title": "Landslide Kills at Least 14 at Funeral in Cameroon",
+            "abstract": "Rescuers were still searching for people who might have been swept up in the disaster.",
+            "url": "https://www.nytimes.com/2022/11/27/world/africa/cameroon-landslide-funeral.html",
+            "uri": "nyt://article/e2243289-7644-5acf-afff-c4d9426d850a",
+            "byline": "By Reuters",
+            "item_type": "Article",
+            "updated_date": "2022-11-27T20:42:10-05:00",
+            "created_date": "2022-11-27T16:30:33-05:00",
+            "published_date": "2022-11-27T16:30:33-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Landslides and Mudslides",
+                "Deaths (Fatalities)",
+                "Funerals and Memorials"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Cameroon"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/world/27cameroon-01/merlin_217481304_c621becf-f945-4dcc-8ea3-33bc0c4b6359-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1536,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rescue crews and officials with the bodies of victims after a landslide in Cameroon’s capital on Sunday.",
+                    "copyright": "Amindeh Blaise Atabong/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/world/27cameroon-01/27cameroon-01-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rescue crews and officials with the bodies of victims after a landslide in Cameroon’s capital on Sunday.",
+                    "copyright": "Amindeh Blaise Atabong/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/world/27cameroon-01/27cameroon-01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rescue crews and officials with the bodies of victims after a landslide in Cameroon’s capital on Sunday.",
+                    "copyright": "Amindeh Blaise Atabong/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3EIrZ0H"
+        },
+        {
+            "section": "briefing",
+            "subsection": "",
+            "title": "Your Monday Briefing: Covid Protests Intensify in China",
+            "abstract": "Plus World Cup updates, Kiribati’s judicial shake-up and “Gangnam Style,” 10 years later.",
+            "url": "https://www.nytimes.com/2022/11/27/briefing/covid-protests-shanghai-china-asia.html",
+            "uri": "nyt://article/7997b91a-d047-5807-ade4-543a12c60696",
+            "byline": "By Amelia Nierenberg",
+            "item_type": "Article",
+            "updated_date": "2022-11-27T15:56:52-05:00",
+            "created_date": "2022-11-27T15:56:52-05:00",
+            "published_date": "2022-11-27T15:56:52-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Demonstrations, Protests and Riots",
+                "Politics and Government",
+                "Pop and Rock Music",
+                "K-Pop",
+                "Human Rights and Human Rights Violations",
+                "Civil Rights and Liberties",
+                "World Cup (Soccer)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Psy (Rapper)"
+            ],
+            "geo_facet": [
+                "Cambodia",
+                "China",
+                "Urumqi (China)",
+                "Shanghai (China)",
+                "Gangnam District (Seoul, South Korea)",
+                "Kiribati",
+                "Qatar"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/112822ambriefing-asia-promo/28ambriefing-asia-china-superJumbo-v2.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1638,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Heavy police presence and crowds of residents near the Wulumuqi Road area in Shanghai, where a second evening of protest against China’s strict Covid-19 policy were anticipated to take police, on Sunday.",
+                    "copyright": "Qilai Shen for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/112822ambriefing-asia-promo/28ambriefing-asia-china-threeByTwoSmallAt2X-v3.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Heavy police presence and crowds of residents near the Wulumuqi Road area in Shanghai, where a second evening of protest against China’s strict Covid-19 policy were anticipated to take police, on Sunday.",
+                    "copyright": "Qilai Shen for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/world/112822ambriefing-asia-promo/28ambriefing-asia-china-thumbLarge-v3.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Heavy police presence and crowds of residents near the Wulumuqi Road area in Shanghai, where a second evening of protest against China’s strict Covid-19 policy were anticipated to take police, on Sunday.",
+                    "copyright": "Qilai Shen for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3VjGfUM"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "As Winter Looms, Snowfall and Mud Present New Hardships for Ukraine",
+            "abstract": "Officials urged Ukrainians to continue conserving energy, as analysts said that deteriorating weather was one factor slowing Ukraine’s battlefield progress.",
+            "url": "https://www.nytimes.com/2022/11/27/world/europe/ukraine-russia-winter-war.html",
+            "uri": "nyt://article/c08a6ad0-505a-5592-b003-7fa99512819b",
+            "byline": "By Matthew Mpoke Bigg",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T13:08:07-05:00",
+            "created_date": "2022-11-27T13:35:18-05:00",
+            "published_date": "2022-11-27T13:35:18-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "Electric Light and Power"
+            ],
+            "org_facet": [
+                "Zaporizhzhia Power Plant (Ukraine)",
+                "Ukrenergo"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Dnipro River (Ukraine)",
+                "Ukraine",
+                "Russia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/world/27ukraine-ledeall-top-sub-02/merlin_217314411_716a1f02-d79d-47c4-8be8-318c30de1868-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Members of Ukraine’s Territorial Defense Force took part in a tactical training exercise south of Kyiv on Friday.",
+                    "copyright": "Brendan Hoffman for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/world/27ukraine-ledeall-top-sub-02/27ukraine-ledeall-top-sub-02-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Members of Ukraine’s Territorial Defense Force took part in a tactical training exercise south of Kyiv on Friday.",
+                    "copyright": "Brendan Hoffman for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/world/27ukraine-ledeall-top-sub-02/27ukraine-ledeall-top-sub-02-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Members of Ukraine’s Territorial Defense Force took part in a tactical training exercise south of Kyiv on Friday.",
+                    "copyright": "Brendan Hoffman for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3F7fpcL"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Roman Coins Thought for Centuries to Be Fakes Get a Fresh Appraisal",
+            "abstract": "New research suggests that the gold coins, which were found in 1713 and long dismissed as forgeries, may be authentic.",
+            "url": "https://www.nytimes.com/2022/11/27/world/europe/roman-coins-authentic-fake.html",
+            "uri": "nyt://article/69f07cdd-2457-5929-be1d-520cb72e3729",
+            "byline": "By April Rubin",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T23:14:16-05:00",
+            "created_date": "2022-11-27T12:50:45-05:00",
+            "published_date": "2022-11-27T12:50:45-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Currency",
+                "Research",
+                "Forgery",
+                "Roman Civilization",
+                "Gold"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Great Britain",
+                "Transylvania (Romania)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/12/25/multimedia/25xp-coin-01-1-be51/25xp-coin-01-1-be51-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Long considered fake, gold coins like this one bearing the image of a mysterious third-century figure named Sponsian may be authentic, researchers say.",
+                    "copyright": "The Hunterian - University of Glasgow, via Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/12/25/multimedia/25xp-coin-01-1-be51/25xp-coin-01-1-be51-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Long considered fake, gold coins like this one bearing the image of a mysterious third-century figure named Sponsian may be authentic, researchers say.",
+                    "copyright": "The Hunterian - University of Glasgow, via Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/12/25/multimedia/25xp-coin-01-1-be51/25xp-coin-01-1-be51-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Long considered fake, gold coins like this one bearing the image of a mysterious third-century figure named Sponsian may be authentic, researchers say.",
+                    "copyright": "The Hunterian - University of Glasgow, via Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Vr1nb4"
+        },
+        {
+            "section": "briefing",
+            "subsection": "",
+            "title": "Cholera and Crime",
+            "abstract": "Haiti is in the midst of a humanitarian disaster.",
+            "url": "https://www.nytimes.com/2022/11/27/briefing/haiti-cholera.html",
+            "uri": "nyt://article/b4e580f0-910f-5f2d-9dc3-da4f36b1de8a",
+            "byline": "By Claire Moses",
+            "item_type": "Article",
+            "updated_date": "2022-11-27T07:32:27-05:00",
+            "created_date": "2022-11-27T07:32:27-05:00",
+            "published_date": "2022-11-27T07:32:27-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "internal-storyline-no",
+                "Assassinations and Attempted Assassinations",
+                "Gangs"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Haiti"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/multimedia/27-THE-MORNING-NL-promo/27-THE-MORNING-NL-NK-1-422a-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 2047,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jameson Batz, 4, cries next to his mother, Fanis Pierre, 30, in Port-au-Prince, Haiti.",
+                    "copyright": "Adriana Zehbrauskas for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/multimedia/27-THE-MORNING-NL-promo/27-THE-MORNING-NL-NK-1-422a-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jameson Batz, 4, cries next to his mother, Fanis Pierre, 30, in Port-au-Prince, Haiti.",
+                    "copyright": "Adriana Zehbrauskas for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/multimedia/27-THE-MORNING-NL-promo/27-THE-MORNING-NL-NK-1-422a-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jameson Batz, 4, cries next to his mother, Fanis Pierre, 30, in Port-au-Prince, Haiti.",
+                    "copyright": "Adriana Zehbrauskas for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3GRqekm"
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "Beauty Over Brains: Japan’s Skin-Deep University Pageants",
+            "abstract": "The contests reflect a culture that often judges women by their appearance and slots them into rigid, gender-defined roles.",
+            "url": "https://www.nytimes.com/2022/11/27/world/asia/japan-university-pageants.html",
+            "uri": "nyt://article/9557f9ca-9e93-535c-a54c-763664dac4bc",
+            "byline": "By Motoko Rich and Hikari Hida",
+            "item_type": "Article",
+            "updated_date": "2022-11-27T16:10:05-05:00",
+            "created_date": "2022-11-27T03:00:26-05:00",
+            "published_date": "2022-11-27T03:00:26-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Beauty Contests",
+                "Beauty (Concept)",
+                "Colleges and Universities",
+                "Women and Girls",
+                "Discrimination"
+            ],
+            "org_facet": [
+                "University of Tokyo"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Japan"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/world/00japan-pageants-top3/00japan-pageants-top3-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Yuki Iozumi, center, and other finalists of the Miss Mister Aoyama pageants in Tokyo last month. Critics argue that the competitions promote stereotypical beauty standards.",
+                    "copyright": "Shiho Fukada for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/world/00japan-pageants-top3/00japan-pageants-top3-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Yuki Iozumi, center, and other finalists of the Miss Mister Aoyama pageants in Tokyo last month. Critics argue that the competitions promote stereotypical beauty standards.",
+                    "copyright": "Shiho Fukada for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/world/00japan-pageants-top3/00japan-pageants-top3-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Yuki Iozumi, center, and other finalists of the Miss Mister Aoyama pageants in Tokyo last month. Critics argue that the competitions promote stereotypical beauty standards.",
+                    "copyright": "Shiho Fukada for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3EzEU4I"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "French Police Guard Water as Seasonal Drought Intensifies",
+            "abstract": "New reservoirs designed to supply French farms with water in increasingly arid growing seasons have attracted opposition from environmentalists.",
+            "url": "https://www.nytimes.com/2022/11/27/world/europe/france-climate-change-water-wars.html",
+            "uri": "nyt://article/e97d15ee-0621-5c48-9aaf-ca8816df5ed8",
+            "byline": "By Catherine Porter",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T07:45:53-05:00",
+            "created_date": "2022-11-27T03:00:20-05:00",
+            "published_date": "2022-11-27T03:00:20-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Water",
+                "Reservoirs",
+                "Drought",
+                "Agriculture and Farming",
+                "Demonstrations, Protests and Riots",
+                "Wetlands",
+                "Aquifers",
+                "Global Warming",
+                "Politics and Government",
+                "Sustainable Living",
+                "Wells"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "France",
+                "Europe"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/18/world/00France-water-climate02/00France-water-climate02-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Mauzé-sur-le-Mignon reservoir is the first of 16 planned in the Deux-Sèvres region.",
+                    "copyright": "Andrea Mantovani for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/18/world/00France-water-climate02/00France-water-climate02-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Mauzé-sur-le-Mignon reservoir is the first of 16 planned in the Deux-Sèvres region.",
+                    "copyright": "Andrea Mantovani for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/18/world/00France-water-climate02/00France-water-climate02-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Mauzé-sur-le-Mignon reservoir is the first of 16 planned in the Deux-Sèvres region.",
+                    "copyright": "Andrea Mantovani for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3u1MW1J"
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Amid Israeli Blockade on Gaza, a Fishing Fleet Limps Along",
+            "abstract": "An Israeli blockade that restricts the movement of Gazans out of the strip and limits imports — or bans them completely — has been devastating for the enclave’s fishing industry.",
+            "url": "https://www.nytimes.com/2022/11/27/world/middleeast/israeli-blockade-gaza-fishing.html",
+            "uri": "nyt://article/aeb40ac7-7e58-5f2a-a524-55928e29da23",
+            "byline": "By Raja Abdulrahim",
+            "item_type": "Article",
+            "updated_date": "2022-11-27T16:07:40-05:00",
+            "created_date": "2022-11-27T03:00:18-05:00",
+            "published_date": "2022-11-27T03:00:18-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Fishing, Commercial",
+                "Palestinians",
+                "Politics and Government",
+                "Embargoes and Sanctions"
+            ],
+            "org_facet": [
+                "Hamas"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Gaza Strip",
+                "Israel"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/16/world/00gaza-fish-1/merlin_211595280_aada8976-7594-4536-9614-a2f26b2b4d42-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Palestinian fisherman carrying his bounty after a trip out to the sea along the Gaza Strip.",
+                    "copyright": "Samar Abu Elouf for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/16/world/00gaza-fish-1/merlin_211595280_aada8976-7594-4536-9614-a2f26b2b4d42-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Palestinian fisherman carrying his bounty after a trip out to the sea along the Gaza Strip.",
+                    "copyright": "Samar Abu Elouf for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/16/world/00gaza-fish-1/00gaza-fish-1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Palestinian fisherman carrying his bounty after a trip out to the sea along the Gaza Strip.",
+                    "copyright": "Samar Abu Elouf for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3u50LMK"
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "Protests Erupt in Shanghai and Other Chinese Cities Over Covid Controls",
+            "abstract": "A chanting crowd called for China’s leader, Xi Jinping, to step down, a rare act of defiance reflecting growing anger after nearly three years of lockdowns.",
+            "url": "https://www.nytimes.com/2022/11/26/world/asia/china-protests-covid.html",
+            "uri": "nyt://article/33dc8fff-3cd0-5b5b-a0d2-a81d353c805f",
+            "byline": "By Chris Buckley and Muyi Xiao",
+            "item_type": "Article",
+            "updated_date": "2022-11-27T21:25:30-05:00",
+            "created_date": "2022-11-26T17:49:43-05:00",
+            "published_date": "2022-11-26T17:49:43-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Demonstrations, Protests and Riots",
+                "Politics and Government",
+                "Coronavirus (2019-nCoV)"
+            ],
+            "org_facet": [
+                "Communist Party of China"
+            ],
+            "per_facet": [
+                "Xi Jinping"
+            ],
+            "geo_facet": [
+                "China",
+                "Shanghai (China)",
+                "Urumqi (China)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/12/26/world/26china-protests-3/merlin_217433913_18ed85df-3c33-415b-bc69-88afc0ef8842-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Protesters shouting slogans as police officers looked on in Shanghai on Saturday.",
+                    "copyright": "via Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/12/26/world/26china-protests-3/merlin_217433913_18ed85df-3c33-415b-bc69-88afc0ef8842-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Protesters shouting slogans as police officers looked on in Shanghai on Saturday.",
+                    "copyright": "via Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/12/26/world/26china-protests-3/merlin_217433913_18ed85df-3c33-415b-bc69-88afc0ef8842-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Protesters shouting slogans as police officers looked on in Shanghai on Saturday.",
+                    "copyright": "via Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3gJPo9P"
+        }
+    ]
+}

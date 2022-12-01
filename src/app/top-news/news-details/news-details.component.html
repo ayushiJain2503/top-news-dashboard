@@ -1,0 +1,48 @@
+<mat-expansion-panel
+  class="panel"
+  *ngFor="let news of newsData; let i = index"
+  [expanded]="step === i"
+  (opened)="setStep(i)"
+>
+  <mat-expansion-panel-header class="news-panel">
+    <mat-panel-title class="panel-title">
+      {{ news?.title }}
+    </mat-panel-title>
+    <mat-panel-description class="mat-description">
+      <p>{{ news?.byline }}</p>
+    </mat-panel-description>
+  </mat-expansion-panel-header>
+
+  <mat-card>
+    <mat-card-content>
+      <div class="news-content">
+        <figure *ngIf="news?.multimedia">
+          <img
+            mat-card-xl-image
+            src="{{ news?.multimedia[0].url }}"
+            alt="{{ news?.multimedia[0].copyright }}"
+          />
+        </figure>
+
+        <div>
+          <p>
+            {{ news?.abstract }}
+          </p>
+          <p *ngIf="news.multimedia">
+            {{ news?.multimedia[0].caption }}
+          </p>
+          <p>
+            <a href="{{ news?.url }}" target="_blank">See full news here.</a>
+          </p>
+          <p class="news-description-mobile">{{ news?.byline }}</p>
+          <mat-chip-listbox>
+            <span class="list">Tags: </span>
+            <mat-chip-option *ngFor="let desc of news?.des_facet">
+              {{ desc }},
+            </mat-chip-option>
+          </mat-chip-listbox>
+        </div>
+      </div>
+    </mat-card-content>
+  </mat-card>
+</mat-expansion-panel>

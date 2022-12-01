@@ -1,0 +1,1585 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "section": "Science",
+    "last_updated": "2022-11-28T18:43:57-05:00",
+    "num_results": 26,
+    "results": [
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "Sign Up for the Science Times Newsletter",
+            "abstract": "Every week, we’ll bring you stories that capture the wonders of the human body, nature and the cosmos.",
+            "url": "null",
+            "uri": "nyt://embeddedinteractive/daba9d03-29b8-5cfc-8cbd-74b8abf54a07",
+            "byline": "",
+            "item_type": "EmbeddedInteractive",
+            "updated_date": "2018-04-07T13:23:25-04:00",
+            "created_date": "2016-02-05T18:18:53-05:00",
+            "published_date": "2016-02-05T18:18:53-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2016/02/06/science/sciencenewsletter2/sciencenewsletter2-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1534,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "NASA, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2016/02/06/science/sciencenewsletter2/sciencenewsletter2-mediumThreeByTwo440.jpg",
+                    "format": "mediumThreeByTwo440",
+                    "height": 293,
+                    "width": 440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "NASA, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2016/02/06/science/sciencenewsletter2/sciencenewsletter2-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "NASA, via Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "admin",
+            "subsection": "",
+            "title": "",
+            "abstract": "",
+            "url": "",
+            "uri": "nyt://embeddedinteractive/6cb185ed-65ac-50a5-ace3-5bab81934245",
+            "byline": "",
+            "item_type": "EmbeddedInteractive",
+            "updated_date": "2015-07-20T13:45:03-04:00",
+            "created_date": "2015-04-16T14:13:18-04:00",
+            "published_date": "2015-04-16T14:13:18-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": null,
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "China to Launch 3 Astronauts to New Space Station: How to Watch",
+            "abstract": "The crew will set off from a secretive desert launch center to rendezvous with fellow astronauts aboard Tiangong, the country’s newly completed outpost in orbit.",
+            "url": "https://www.nytimes.com/2022/11/29/world/asia/china-space-launch-astronauts.html",
+            "uri": "nyt://article/5139a1c2-dd63-5f88-86bb-7b18b4975f30",
+            "byline": "By Keith Bradsher",
+            "item_type": "Article",
+            "updated_date": "2022-11-29T02:13:33-05:00",
+            "created_date": "2022-11-29T00:00:09-05:00",
+            "published_date": "2022-11-29T00:00:09-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Tiangong Space Program",
+                "Space and Astronomy",
+                "Rocket Science and Propulsion",
+                "International Relations",
+                "International Space Station",
+                "Research"
+            ],
+            "org_facet": [
+                "China Manned Space Agency"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "China"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/science/29china-launch-01/29china-launch-01-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1640,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Long March-2F rocket, carrying the Shenzhou 15 spacecraft, at Jiuquan Satellite Launch Center in China last week.",
+                    "copyright": "via Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/science/29china-launch-01/29china-launch-01-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Long March-2F rocket, carrying the Shenzhou 15 spacecraft, at Jiuquan Satellite Launch Center in China last week.",
+                    "copyright": "via Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/science/29china-launch-01/29china-launch-01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Long March-2F rocket, carrying the Shenzhou 15 spacecraft, at Jiuquan Satellite Launch Center in China last week.",
+                    "copyright": "via Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Vyu6e1"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Whole Foods to Stop Buying Maine Lobster Amid Risk to Endangered Whales",
+            "abstract": "Maine’s political leaders criticized the decision, which was based on assessments by two conservation groups that have raised concerns that North Atlantic right whales have become entangled in the ropes used to fish for lobster.",
+            "url": "https://www.nytimes.com/2022/11/28/us/whole-foods-lobster-maine-whales.html",
+            "uri": "nyt://article/e7eff0ad-b475-57ec-8d7f-aebd1addfcb9",
+            "byline": "By Michael Levenson",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T22:51:45-05:00",
+            "created_date": "2022-11-28T19:28:58-05:00",
+            "published_date": "2022-11-28T19:28:58-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Lobsters",
+                "Conservation of Resources",
+                "Endangered and Extinct Species",
+                "Supermarkets and Grocery Stores",
+                "Seafood",
+                "Fishing, Commercial"
+            ],
+            "org_facet": [
+                "Marine Stewardship Council",
+                "Monterey Bay Aquarium",
+                "Whole Foods Market Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Gulf of Maine"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/multimedia/28-xp-wholefoods-lobster-1-4a52/28-xp-wholefoods-lobster-1-4a52-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Whole Foods said it would stop buying lobster from the Gulf of Maine on Dec. 15.",
+                    "copyright": "Joe Raedle/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/multimedia/28-xp-wholefoods-lobster-1-4a52/28-xp-wholefoods-lobster-1-4a52-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Whole Foods said it would stop buying lobster from the Gulf of Maine on Dec. 15.",
+                    "copyright": "Joe Raedle/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/multimedia/28-xp-wholefoods-lobster-1-4a52/28-xp-wholefoods-lobster-1-4a52-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Whole Foods said it would stop buying lobster from the Gulf of Maine on Dec. 15.",
+                    "copyright": "Joe Raedle/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3gK1AYk"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Monkeypox Has a New Name: Mpox",
+            "abstract": "Health experts said the old nomenclature was imprecise, played into racist stereotypes and fueled stigmatization, making it harder to contain the most recent outbreaks.",
+            "url": "https://www.nytimes.com/2022/11/28/health/monkeypox-mpox-who.html",
+            "uri": "nyt://article/c35a39e7-5910-51e9-8e85-7a95c2003a7a",
+            "byline": "By Andrew Jacobs",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T23:11:39-05:00",
+            "created_date": "2022-11-28T11:58:31-05:00",
+            "published_date": "2022-11-28T11:58:31-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Monkeypox",
+                "Discrimination",
+                "Race and Ethnicity",
+                "Black People",
+                "Disease Rates",
+                "Viruses",
+                "Infections"
+            ],
+            "org_facet": [
+                "World Health Organization"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Africa",
+                "Europe",
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/science/28WHO-MPOX-01/28WHO-MPOX-01-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An electron micrograph of monkeypox particles, in pink, within an infected cell, in green.",
+                    "copyright": "N.I.H./Universal Images Group, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/science/28WHO-MPOX-01/28WHO-MPOX-01-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An electron micrograph of monkeypox particles, in pink, within an infected cell, in green.",
+                    "copyright": "N.I.H./Universal Images Group, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/science/28WHO-MPOX-01/28WHO-MPOX-01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An electron micrograph of monkeypox particles, in pink, within an infected cell, in green.",
+                    "copyright": "N.I.H./Universal Images Group, via Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Vazkgm"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Organ Donations Rise Around Motorcycle Rallies",
+            "abstract": "A new study suggests a link between the large gatherings and a slightly higher number of transplants after traffic crashes.",
+            "url": "https://www.nytimes.com/2022/11/28/health/organ-donations-motorcycle-rallies.html",
+            "uri": "nyt://article/dbf35b99-5a98-568f-a263-43218d951084",
+            "byline": "By Ted Alcorn",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T23:27:50-05:00",
+            "created_date": "2022-11-28T11:39:25-05:00",
+            "published_date": "2022-11-28T11:39:25-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Traffic Accidents and Safety",
+                "Organ Donation",
+                "Deaths (Fatalities)",
+                "Research",
+                "Motorcycles, Motor Bikes and Motorscooters",
+                "Transplants"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Sturgis (SD)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/science/28TRANSPLANT-STURGIS-01/28TRANSPLANT-STURGIS-01-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Motorcycle enthusiasts attend the Sturgis Motorcycle Rally in Sturgis, S.D., in 2021. A new study links such rallies to increased numbers of organ donors.",
+                    "copyright": "Scott Olson/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/science/28TRANSPLANT-STURGIS-01/28TRANSPLANT-STURGIS-01-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Motorcycle enthusiasts attend the Sturgis Motorcycle Rally in Sturgis, S.D., in 2021. A new study links such rallies to increased numbers of organ donors.",
+                    "copyright": "Scott Olson/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/28/science/28TRANSPLANT-STURGIS-01/28TRANSPLANT-STURGIS-01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Motorcycle enthusiasts attend the Sturgis Motorcycle Rally in Sturgis, S.D., in 2021. A new study links such rallies to increased numbers of organ donors.",
+                    "copyright": "Scott Olson/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Vugt09"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Roman Coins Thought for Centuries to Be Fakes Get a Fresh Appraisal",
+            "abstract": "New research suggests that the gold coins, which were found in 1713 and long dismissed as forgeries, may be authentic.",
+            "url": "https://www.nytimes.com/2022/11/27/world/europe/roman-coins-authentic-fake.html",
+            "uri": "nyt://article/69f07cdd-2457-5929-be1d-520cb72e3729",
+            "byline": "By April Rubin",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T23:14:16-05:00",
+            "created_date": "2022-11-27T12:50:45-05:00",
+            "published_date": "2022-11-27T12:50:45-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Currency",
+                "Research",
+                "Forgery",
+                "Roman Civilization",
+                "Gold"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Great Britain",
+                "Transylvania (Romania)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/12/25/multimedia/25xp-coin-01-1-be51/25xp-coin-01-1-be51-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Long considered fake, gold coins like this one bearing the image of a mysterious third-century figure named Sponsian may be authentic, researchers say.",
+                    "copyright": "The Hunterian - University of Glasgow, via Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/12/25/multimedia/25xp-coin-01-1-be51/25xp-coin-01-1-be51-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Long considered fake, gold coins like this one bearing the image of a mysterious third-century figure named Sponsian may be authentic, researchers say.",
+                    "copyright": "The Hunterian - University of Glasgow, via Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/12/25/multimedia/25xp-coin-01-1-be51/25xp-coin-01-1-be51-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Long considered fake, gold coins like this one bearing the image of a mysterious third-century figure named Sponsian may be authentic, researchers say.",
+                    "copyright": "The Hunterian - University of Glasgow, via Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Vr1nb4"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "As Gen X and Boomers Age, They Confront Living Alone",
+            "abstract": "More older Americans are living by themselves than ever before. That shift presents issues on housing, health care and personal finance.",
+            "url": "https://www.nytimes.com/2022/11/27/us/living-alone-aging.html",
+            "uri": "nyt://article/da5c6b59-edc3-5f74-a46d-966644a8ce8a",
+            "byline": "By Dana Goldstein and Robert Gebeloff",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T10:46:39-05:00",
+            "created_date": "2022-11-27T04:53:49-05:00",
+            "published_date": "2022-11-27T04:53:49-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Single Persons",
+                "Real Estate and Housing (Residential)",
+                "Generation X",
+                "Baby Boomers",
+                "Affordable Housing",
+                "Age, Chronological",
+                "internal-sub-only"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/23/us/00nat-solo-living-1/merlin_214207923_383b9028-f213-43d5-966b-56b1da9f1235-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1366,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mary Felder at her home in the Strawberry Mansion neighborhood in Philadelphia.",
+                    "copyright": "Sahar Coston-Hardy for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/23/us/00nat-solo-living-1/00nat-solo-living-1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mary Felder at her home in the Strawberry Mansion neighborhood in Philadelphia.",
+                    "copyright": "Sahar Coston-Hardy for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/23/us/00nat-solo-living-1/00nat-solo-living-1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mary Felder at her home in the Strawberry Mansion neighborhood in Philadelphia.",
+                    "copyright": "Sahar Coston-Hardy for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3gKRmGZ"
+        },
+        {
+            "section": "insider",
+            "subsection": "",
+            "title": "The Worlds of the ‘Remarkably Prescient’ Octavia Butler",
+            "abstract": "A new interactive article in The Times immerses readers in significant locations and moments from the life of the pioneering science fiction writer.",
+            "url": "https://www.nytimes.com/2022/11/27/insider/the-worlds-of-the-remarkably-prescient-octavia-butler.html",
+            "uri": "nyt://article/1afec755-fff0-5091-802a-981d2f37e65d",
+            "byline": "By Sarah Bahr",
+            "item_type": "Article",
+            "updated_date": "2022-11-27T16:03:49-05:00",
+            "created_date": "2022-11-27T03:00:10-05:00",
+            "published_date": "2022-11-27T03:00:10-05:00",
+            "material_type_facet": "",
+            "kicker": "Times Insider",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [
+                "Butler, Octavia E",
+                "Chambers, Veronica"
+            ],
+            "geo_facet": [
+                "Pasadena (Calif)",
+                "California"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/pageoneplus/27a2_ITT-02/27a2_ITT-02-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1280,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Octavia Butler’s science fiction has found renewed audiences. 3-D constructions of sites, including a mural outside a middle school in Pasadena, Calif., anchor a multimedia project in The Times.",
+                    "copyright": "Ainslee Alem Robson"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/pageoneplus/27a2_ITT-02/27a2_ITT-02-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Octavia Butler’s science fiction has found renewed audiences. 3-D constructions of sites, including a mural outside a middle school in Pasadena, Calif., anchor a multimedia project in The Times.",
+                    "copyright": "Ainslee Alem Robson"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/pageoneplus/27a2_ITT-02/27a2_ITT-02-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Octavia Butler’s science fiction has found renewed audiences. 3-D constructions of sites, including a mural outside a middle school in Pasadena, Calif., anchor a multimedia project in The Times.",
+                    "copyright": "Ainslee Alem Robson"
+                }
+            ],
+            "short_url": "https://nyti.ms/3EFFUEA"
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Meet the Man on a Mission to Expose Sneaky Price Increases",
+            "abstract": "Edgar Dworsky has become the go-to expert on “shrinkflation,” when products or packaging are manipulated so people get less for their money.",
+            "url": "https://www.nytimes.com/2022/11/26/climate/fighting-shrinkflation-consumer-products.html",
+            "uri": "nyt://article/af4f8426-78ef-5c13-a7cc-8382d43e7230",
+            "byline": "By Clare Toeniskoetter",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T10:49:45-05:00",
+            "created_date": "2022-11-26T16:43:58-05:00",
+            "published_date": "2022-11-26T16:43:58-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Consumer Protection",
+                "Prices (Fares, Fees and Rates)",
+                "Inflation (Economics)",
+                "Containers and Packaging",
+                "Advertising and Marketing",
+                "Content Type: Personal Profile",
+                "internal-sub-only"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Dworsky, Edgar"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/16/climate/00cli-shrinkflation5/merlin_216246735_4c44b4d2-6b9d-4b6c-9e5d-10a71a36d38e-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1463,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Dworsky said he looks out for clues like “new and improved” on packaging.",
+                    "copyright": "Simon Simard for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/16/climate/00cli-shrinkflation5/00cli-shrinkflation5-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Dworsky said he looks out for clues like “new and improved” on packaging.",
+                    "copyright": "Simon Simard for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/16/climate/00cli-shrinkflation5/00cli-shrinkflation5-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Dworsky said he looks out for clues like “new and improved” on packaging.",
+                    "copyright": "Simon Simard for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3V8vrIJ"
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "Happy Birthday, Omicron",
+            "abstract": "One year after the variant’s discovery, virologists are still scrambling to keep up with Omicron’s rapid evolution.",
+            "url": "https://www.nytimes.com/2022/11/26/science/omicron-birthday-variant-evolution.html",
+            "uri": "nyt://article/8a6e1a1b-d93f-55b3-8df3-f4d817e970d3",
+            "byline": "By Carl Zimmer",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T23:49:48-05:00",
+            "created_date": "2022-11-26T05:00:15-05:00",
+            "published_date": "2022-11-26T05:00:15-05:00",
+            "material_type_facet": "",
+            "kicker": "Matter",
+            "des_facet": [
+                "Coronavirus Omicron Variant",
+                "Coronavirus (2019-nCoV)",
+                "Immune System",
+                "Biology and Biochemistry",
+                "Evolution (Biology)",
+                "your-feed-science"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/science/26sci-omicron-01/26sci-omicron-01-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A colored scanning electronic microscope image of Omicron viruses (red dots) budding from a vero mammalian kidney epithelial cell 36 hours after infection.",
+                    "copyright": "Steve Gschmeissner/Science Source"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/science/26sci-omicron-01/26sci-omicron-01-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A colored scanning electronic microscope image of Omicron viruses (red dots) budding from a vero mammalian kidney epithelial cell 36 hours after infection.",
+                    "copyright": "Steve Gschmeissner/Science Source"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/science/26sci-omicron-01/26sci-omicron-01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A colored scanning electronic microscope image of Omicron viruses (red dots) budding from a vero mammalian kidney epithelial cell 36 hours after infection.",
+                    "copyright": "Steve Gschmeissner/Science Source"
+                }
+            ],
+            "short_url": "https://nyti.ms/3EG37GC"
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Giving Thanks for a Beloved Sugar Maple",
+            "abstract": "A majestic tree is fading fast. For the people who loved it, it’s like losing a family member.",
+            "url": "https://www.nytimes.com/2022/11/24/climate/sugar-maple-pennsylvania-farm.html",
+            "uri": "nyt://article/a91eef7d-a197-515a-9354-ef6993715798",
+            "byline": "By Daryln Brewer Hoffstot",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T23:48:15-05:00",
+            "created_date": "2022-11-24T05:00:24-05:00",
+            "published_date": "2022-11-24T05:00:24-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Trees and Shrubs",
+                "Fungi",
+                "Maple Syrup and Sugar",
+                "Forests and Forestry",
+                "Global Warming"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Pennsylvania"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/science/00cli-sugarmaple-01/merlin_216719346_6b761e51-2739-4868-9e3d-eddbe38cab09-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The author’s maple tree in Ligonier, Pa.",
+                    "copyright": "Kristian Thacker for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/science/00cli-sugarmaple-01/merlin_216719346_6b761e51-2739-4868-9e3d-eddbe38cab09-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The author’s maple tree in Ligonier, Pa.",
+                    "copyright": "Kristian Thacker for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/29/science/00cli-sugarmaple-01/00cli-sugarmaple-01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The author’s maple tree in Ligonier, Pa.",
+                    "copyright": "Kristian Thacker for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3OBmEwM"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Frederick P. Brooks Jr., Computer Design Innovator, Dies at 91",
+            "abstract": "He was a lead designer of the computers that cemented IBM’s dominance for decades. He later wrote a book on software engineering that became a quirky classic.",
+            "url": "https://www.nytimes.com/2022/11/23/technology/frederick-p-brooks-jr-dead.html",
+            "uri": "nyt://article/c6dca1ec-b03b-56f4-b70d-8c21fdfc4c6e",
+            "byline": "By Steve Lohr",
+            "item_type": "Article",
+            "updated_date": "2022-11-26T23:12:36-05:00",
+            "created_date": "2022-11-23T17:50:12-05:00",
+            "published_date": "2022-11-23T17:50:12-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Computers and the Internet",
+                "Science and Technology",
+                "Software",
+                "Open-Source Software"
+            ],
+            "org_facet": [
+                "International Business Machines Corporation",
+                "University of North Carolina"
+            ],
+            "per_facet": [
+                "Brooks, Frederick P Jr (1931-2022)"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/obituaries/22brooks-02-print1/22brooks-02-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1541,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The computer scientist Frederick P. Brooks Jr. in 2014 with a first-generation Apple Macintosh computer. Dr. Brooks, a technical leader at IBM in the 1960s, admired the design of the Mac, which he said was “right in so many ways.”",
+                    "copyright": "Steve Exum, via U.N.C. Department of Computer Science"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/obituaries/22brooks-02-print1/22brooks-02-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The computer scientist Frederick P. Brooks Jr. in 2014 with a first-generation Apple Macintosh computer. Dr. Brooks, a technical leader at IBM in the 1960s, admired the design of the Mac, which he said was “right in so many ways.”",
+                    "copyright": "Steve Exum, via U.N.C. Department of Computer Science"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/obituaries/22brooks-02-print1/22brooks-02-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The computer scientist Frederick P. Brooks Jr. in 2014 with a first-generation Apple Macintosh computer. Dr. Brooks, a technical leader at IBM in the 1960s, admired the design of the Mac, which he said was “right in so many ways.”",
+                    "copyright": "Steve Exum, via U.N.C. Department of Computer Science"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Oy9Gzx"
+        },
+        {
+            "section": "magazine",
+            "subsection": "",
+            "title": "Could I Survive the ‘Quietest Place on Earth’?",
+            "abstract": "Legends tell of an echoless chamber in an old Minneapolis recording studio that drives visitors insane. I figured I’d give it a whirl.",
+            "url": "https://www.nytimes.com/2022/11/23/magazine/quiet-chamber-minneapolis.html",
+            "uri": "nyt://article/69a579ac-f925-5b34-80a3-5bf8dff75313",
+            "byline": "By Caity Weaver",
+            "item_type": "Article",
+            "updated_date": "2022-11-28T06:00:31-05:00",
+            "created_date": "2022-11-23T17:12:08-05:00",
+            "published_date": "2022-11-23T17:12:08-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Noise",
+                "Ears and Hearing",
+                "Laboratories and Scientific Equipment",
+                "Records and Achievements",
+                "internal-sub-only",
+                "audio-neutral-immersive",
+                "audio-neutral-informative"
+            ],
+            "org_facet": [
+                "Orfield Laboratories Inc"
+            ],
+            "per_facet": [
+                "Orfield, Steven J"
+            ],
+            "geo_facet": [
+                "Minneapolis (Minn)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/magazine/27mag-deprivation/27mag-deprivation-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1638,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A binaural torso for spatial recording inside the anechoic chamber at Orfield Laboratories. ",
+                    "copyright": "Alec Soth/Magnum, for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/magazine/27mag-deprivation/27mag-deprivation-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A binaural torso for spatial recording inside the anechoic chamber at Orfield Laboratories. ",
+                    "copyright": "Alec Soth/Magnum, for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/27/magazine/27mag-deprivation/27mag-deprivation-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A binaural torso for spatial recording inside the anechoic chamber at Orfield Laboratories. ",
+                    "copyright": "Alec Soth/Magnum, for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Xq8bHV"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Flu and R.S.V. Hit the Holidays, Heightening Demand for Antibiotics and Antivirals",
+            "abstract": "An intense early flu season, coupled with a pediatric rise in respiratory illnesses, has left families frantically searching for medicines that are in short supply.",
+            "url": "https://www.nytimes.com/2022/11/23/health/drug-shortages-flu-holidays.html",
+            "uri": "nyt://article/dd87d119-31fb-5554-9ff3-7f181a3c96e5",
+            "byline": "By Andrew Jacobs and Roni Caryn Rabin",
+            "item_type": "Article",
+            "updated_date": "2022-11-25T23:40:49-05:00",
+            "created_date": "2022-11-23T15:59:47-05:00",
+            "published_date": "2022-11-23T15:59:47-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Drugs (Pharmaceuticals)",
+                "Antibiotics",
+                "Shortages",
+                "Influenza",
+                "Respiratory Syncytial Virus (RSV)",
+                "Coronavirus (2019-nCoV)",
+                "Tamiflu (Drug)",
+                "Hospitals",
+                "Children and Childhood",
+                "Disease Rates"
+            ],
+            "org_facet": [
+                "Food and Drug Administration"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/23/science/23RSV-FLU-DRUGS-01/23RSV-FLU-DRUGS-01-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Two women look at products at a Walgreens pharmacy.",
+                    "copyright": "Jeffrey Greenberg/Universal Images Group, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/23/science/23RSV-FLU-DRUGS-01/23RSV-FLU-DRUGS-01-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Two women look at products at a Walgreens pharmacy.",
+                    "copyright": "Jeffrey Greenberg/Universal Images Group, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/23/science/23RSV-FLU-DRUGS-01/23RSV-FLU-DRUGS-01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Two women look at products at a Walgreens pharmacy.",
+                    "copyright": "Jeffrey Greenberg/Universal Images Group, via Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Vl4iC3"
+        },
+        {
+            "section": "arts",
+            "subsection": "design",
+            "title": "As Dinosaur Fossils Fetch Millions, There’s Many a Bone to Pick",
+            "abstract": "Fossils are a multimillion-dollar business, bringing legal disputes, nondisclosure agreements and trademarks to the world of paleontology.",
+            "url": "https://www.nytimes.com/2022/11/23/arts/design/dinosaur-bones-market-auction.html",
+            "uri": "nyt://article/c82b7cc7-cde1-5105-ab3f-3d2cf9062210",
+            "byline": "By Julia Jacobs and Zachary Small",
+            "item_type": "Article",
+            "updated_date": "2022-11-24T10:31:36-05:00",
+            "created_date": "2022-11-23T11:00:11-05:00",
+            "published_date": "2022-11-23T11:00:11-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Paleontology",
+                "Dinosaurs",
+                "Fossils",
+                "Intellectual Property",
+                "Auctions",
+                "Museums",
+                "internal-sub-only"
+            ],
+            "org_facet": [
+                "Black Hills Institute of Geological Research Inc",
+                "Christie's"
+            ],
+            "per_facet": [
+                "Larson, Peter (Paleontologist)"
+            ],
+            "geo_facet": [
+                "Hulett (Wyo)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/24/arts/23dinosaurs1/merlin_216876621_7ea23b74-66c6-401c-8ade-203fb05e9ad4-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1463,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Peter Larson, whose excavation company has been at the forefront of the boom in dinosaur fossil sales, with a cast of a Tyrannosaurus rex named Stan at his museum in Hill City, S.D.",
+                    "copyright": "Tara Weston for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/24/arts/23dinosaurs1/23dinosaurs1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Peter Larson, whose excavation company has been at the forefront of the boom in dinosaur fossil sales, with a cast of a Tyrannosaurus rex named Stan at his museum in Hill City, S.D.",
+                    "copyright": "Tara Weston for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/24/arts/23dinosaurs1/23dinosaurs1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Peter Larson, whose excavation company has been at the forefront of the boom in dinosaur fossil sales, with a cast of a Tyrannosaurus rex named Stan at his museum in Hill City, S.D.",
+                    "copyright": "Tara Weston for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Xwe06O"
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Earth Now Has 8 Billion Humans. This Man Wishes There Were None.",
+            "abstract": "For the sake of the planet, Les Knight, the founder of the Voluntary Human Extinction movement, has spent decades pushing one message: “May we live long and die out.”",
+            "url": "https://www.nytimes.com/2022/11/23/climate/voluntary-human-extinction.html",
+            "uri": "nyt://article/f7df0c9c-8c43-55bf-8e6f-ad823b820b63",
+            "byline": "By Cara Buckley",
+            "item_type": "Article",
+            "updated_date": "2022-11-27T08:58:48-05:00",
+            "created_date": "2022-11-23T05:00:22-05:00",
+            "published_date": "2022-11-23T05:00:22-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Population",
+                "Sustainable Living",
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "Content Type: Personal Profile"
+            ],
+            "org_facet": [
+                "Zero Population Growth"
+            ],
+            "per_facet": [
+                "Knight, Les U"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/15/climate/00CLI-HUMANEXTINCTION-promo/merlin_215804046_d03c6173-8a68-4184-96f2-fed2dfed371c-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1361,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mason Trinca for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/15/climate/00CLI-HUMANEXTINCTION-promo/00CLI-HUMANEXTINCTION-promo-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mason Trinca for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/15/climate/00CLI-HUMANEXTINCTION-promo/00CLI-HUMANEXTINCTION-promo-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mason Trinca for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Oz50K2"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "A Year After the Omicron Surge, Officials See a Reduced Covid Threat This Winter",
+            "abstract": "Dr. Anthony S. Fauci said the administration was optimistic that “we’re not going to see a repeat of what we saw last year,” when the Omicron variant swept through the country.",
+            "url": "https://www.nytimes.com/2022/11/22/us/politics/fauci-covid-winter-surge.html",
+            "uri": "nyt://article/2ccd9a09-577f-5494-8af4-d2721840a757",
+            "byline": "By Sharon LaFraniere and Benjamin Mueller",
+            "item_type": "Article",
+            "updated_date": "2022-11-24T03:27:42-05:00",
+            "created_date": "2022-11-22T14:47:21-05:00",
+            "published_date": "2022-11-22T14:47:21-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Coronavirus Omicron Variant",
+                "Vaccination and Immunization",
+                "United States Politics and Government",
+                "Disease Rates"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Fauci, Anthony S"
+            ],
+            "geo_facet": [
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/22/us/politics/22dc-virus/merlin_217142565_1c21cc66-7ef1-44b4-b885-5fc5c2aa53db-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1379,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In what was most likely his last appearance in the White House briefing room before he retires, Dr. Anthony Fauci urged Americans to get an updated booster.",
+                    "copyright": "Michael A. McCoy for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/22/us/politics/22dc-virus/merlin_217142565_1c21cc66-7ef1-44b4-b885-5fc5c2aa53db-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In what was most likely his last appearance in the White House briefing room before he retires, Dr. Anthony Fauci urged Americans to get an updated booster.",
+                    "copyright": "Michael A. McCoy for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/22/us/politics/22dc-virus/merlin_217142565_1c21cc66-7ef1-44b4-b885-5fc5c2aa53db-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In what was most likely his last appearance in the White House briefing room before he retires, Dr. Anthony Fauci urged Americans to get an updated booster.",
+                    "copyright": "Michael A. McCoy for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3ETPfKp"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "The Monkeypox Cases That Might Have Been Missed",
+            "abstract": "Despite monkeypox fading from public attention, scientists are still learning how it spreads — including without sexual contact or any symptoms.",
+            "url": "https://www.nytimes.com/2022/11/21/health/monkeypox-women-nonbinary.html",
+            "uri": "nyt://article/dadc53d6-7fe3-5003-849f-0916743ecdfb",
+            "byline": "By Apoorva Mandavilli",
+            "item_type": "Article",
+            "updated_date": "2022-11-22T00:36:53-05:00",
+            "created_date": "2022-11-21T17:33:45-05:00",
+            "published_date": "2022-11-21T17:33:45-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Monkeypox",
+                "Transgender and Transsexuals",
+                "Research",
+                "Sexually Transmitted Diseases",
+                "Acquired Immune Deficiency Syndrome",
+                "Viruses"
+            ],
+            "org_facet": [
+                "Lancet, The (Journal)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/21/climate/21monkeypox1/merlin_216634305_3c29d9f3-26ac-407d-aa37-9209392871d0-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A mobile monkeypox vaccine unit in Brooklyn this month.",
+                    "copyright": "Kholood Eid for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/21/climate/21monkeypox1/merlin_216634305_3c29d9f3-26ac-407d-aa37-9209392871d0-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A mobile monkeypox vaccine unit in Brooklyn this month.",
+                    "copyright": "Kholood Eid for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/21/climate/21monkeypox1/merlin_216634305_3c29d9f3-26ac-407d-aa37-9209392871d0-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A mobile monkeypox vaccine unit in Brooklyn this month.",
+                    "copyright": "Kholood Eid for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3AvHcAM"
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Climate Change Is Threatening Hawaii’s Coral Reefs. So They Called the Insurance Guy.",
+            "abstract": "If worsening coastal storms damage the reefs, the Nature Conservancy will get a payout and use the money to repair the coral — work that state officials can’t afford to do.",
+            "url": "https://www.nytimes.com/2022/11/21/climate/nature-conservancy-insurance-hawaii-coral-reef.html",
+            "uri": "nyt://article/4ef78708-4293-593f-a7ea-8d77cca49de6",
+            "byline": "By Christopher Flavelle and Catrin Einhorn",
+            "item_type": "Article",
+            "updated_date": "2022-11-23T10:57:49-05:00",
+            "created_date": "2022-11-21T11:00:10-05:00",
+            "published_date": "2022-11-21T11:00:10-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "Reefs",
+                "Insurance",
+                "Coral"
+            ],
+            "org_facet": [
+                "Nature Conservancy"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Hawaii"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/21/climate/21cli-REEFINSURANCE1/21cli-REEFINSURANCE1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A shallow coral reef in the waters off Big Island, Hawaii.",
+                    "copyright": "ArteSub/Alamy"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/21/climate/21cli-REEFINSURANCE1/21cli-REEFINSURANCE1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A shallow coral reef in the waters off Big Island, Hawaii.",
+                    "copyright": "ArteSub/Alamy"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/21/climate/21cli-REEFINSURANCE1/21cli-REEFINSURANCE1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A shallow coral reef in the waters off Big Island, Hawaii.",
+                    "copyright": "ArteSub/Alamy"
+                }
+            ],
+            "short_url": "https://nyti.ms/3tQKg6V"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "With Anxiety on the Rise, Some Children Try ‘Exposure Therapy’",
+            "abstract": "A gold-standard treatment for phobias and anxieties encourages young people to follow an old and simple dictum: Face your fears.",
+            "url": "https://www.nytimes.com/2022/11/21/health/anxiety-treatment-exposure-therapy.html",
+            "uri": "nyt://article/695cd9a7-f2f0-5679-9900-997c4c7aca5c",
+            "byline": "By Virginia Hughes and Desiree Rios",
+            "item_type": "Article",
+            "updated_date": "2022-11-27T08:05:27-05:00",
+            "created_date": "2022-11-21T05:00:54-05:00",
+            "published_date": "2022-11-21T05:00:54-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Anxiety and Stress",
+                "Phobias",
+                "Obsessive-Compulsive Disorder",
+                "Psychology and Psychologists",
+                "Mental Health and Disorders",
+                "Parenting",
+                "Children and Childhood",
+                "Health Insurance and Managed Care",
+                "Therapy and Rehabilitation",
+                "your-feed-healthcare",
+                "vis-photo"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/22/science/22SCI-EXPOSURE-jason/merlin_213106638_6294a2ee-bf89-46bd-9020-4d57746ff653-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Nicole Burlingame preparing a warm hot dog for her son, Jason, to try to eat during an exposure session in their kitchen. Jason was afraid of choking while eating.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/22/science/22SCI-EXPOSURE-jason/22SCI-EXPOSURE-jason-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Nicole Burlingame preparing a warm hot dog for her son, Jason, to try to eat during an exposure session in their kitchen. Jason was afraid of choking while eating.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/22/science/22SCI-EXPOSURE-jason/22SCI-EXPOSURE-jason-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Nicole Burlingame preparing a warm hot dog for her son, Jason, to try to eat during an exposure session in their kitchen. Jason was afraid of choking while eating.",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/3Et6wIM"
+        },
+        {
+            "section": "travel",
+            "subsection": "",
+            "title": "How Wild Turkeys Find Love",
+            "abstract": "A photographer in Wisconsin set out to learn how wild turkeys attract their mates — and found that the answer involves wingmen and sexy snoods.",
+            "url": "https://www.nytimes.com/2022/11/21/travel/wild-turkeys-mates.html",
+            "uri": "nyt://article/99261c31-ec0f-5174-a359-6b0bb7374426",
+            "byline": "By Anne Readel",
+            "item_type": "Article",
+            "updated_date": "2022-11-27T12:19:45-05:00",
+            "created_date": "2022-11-21T05:00:45-05:00",
+            "published_date": "2022-11-21T05:00:45-05:00",
+            "material_type_facet": "",
+            "kicker": "The World Through a Lens",
+            "des_facet": [
+                "Turkeys",
+                "Animal Behavior",
+                "Reproduction (Biological)",
+                "Travel and Vacations",
+                "Photography"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Wisconsin"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/26/travel/21travel-turkeys-promo/merlin_215605059_24095a6a-1347-4b90-86ab-d42c65c495b5-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1536,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A flock of male wild turkeys during the spring breeding season in Madison, Wis.",
+                    "copyright": "Anne Readel"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/26/travel/21travel-turkeys-promo/merlin_215605059_24095a6a-1347-4b90-86ab-d42c65c495b5-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A flock of male wild turkeys during the spring breeding season in Madison, Wis.",
+                    "copyright": "Anne Readel"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/26/travel/21travel-turkeys-promo/21travel-turkeys1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A flock of male wild turkeys during the spring breeding season in Madison, Wis.",
+                    "copyright": "Anne Readel"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Axb3c6"
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Inside the Saudi Strategy to Keep the World Hooked on Oil",
+            "abstract": "The kingdom is working to keep fossil fuels at the center of the world economy for decades to come by lobbying, funding research and using its diplomatic muscle to obstruct climate action.",
+            "url": "https://www.nytimes.com/2022/11/21/climate/saudi-arabia-aramco-oil-solar-climate.html",
+            "uri": "nyt://article/7ab0beb9-dbf7-5ac6-8d87-286688d16142",
+            "byline": "By Hiroko Tabuchi",
+            "item_type": "Article",
+            "updated_date": "2022-11-21T10:48:31-05:00",
+            "created_date": "2022-11-21T03:00:15-05:00",
+            "published_date": "2022-11-21T03:00:15-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "Oil (Petroleum) and Gasoline",
+                "Electric and Hybrid Vehicles",
+                "Politics and Government",
+                "Automobiles",
+                "Alternative and Renewable Energy",
+                "International Trade and World Market",
+                "Ethanol"
+            ],
+            "org_facet": [
+                "Energy Department",
+                "Saudi Aramco",
+                "United Nations"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Saudi Arabia",
+                "Iowa",
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/15/climate/00CLI-SAUDIARABIA-kapsarc3/00CLI-SAUDIARABIA-kapsarc3-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A solar farm at the King Abdullah Petroleum Studies and Research Center in Riyadh, the Saudi capital.",
+                    "copyright": "Iman Al-Dabbagh for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/15/climate/00CLI-SAUDIARABIA-kapsarc3/00CLI-SAUDIARABIA-kapsarc3-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A solar farm at the King Abdullah Petroleum Studies and Research Center in Riyadh, the Saudi capital.",
+                    "copyright": "Iman Al-Dabbagh for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/15/climate/00CLI-SAUDIARABIA-kapsarc3/00CLI-SAUDIARABIA-kapsarc3-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A solar farm at the King Abdullah Petroleum Studies and Research Center in Riyadh, the Saudi capital.",
+                    "copyright": "Iman Al-Dabbagh for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3TS04AP"
+        },
+        {
+            "section": "obituaries",
+            "subsection": "",
+            "title": "Jay Pasachoff, Who Pursued Eclipses Across the Globe, Dies at 79",
+            "abstract": "An astronomer at Williams College, he probably saw more solar eclipses than any other human in history.",
+            "url": "https://www.nytimes.com/2022/11/20/obituaries/jay-pasachoff-dead.html",
+            "uri": "nyt://article/c74e37a7-4c31-5e3f-9c98-a648010ecc48",
+            "byline": "By Clay Risen",
+            "item_type": "Article",
+            "updated_date": "2022-11-22T00:34:23-05:00",
+            "created_date": "2022-11-20T16:49:00-05:00",
+            "published_date": "2022-11-20T16:49:00-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Space and Astronomy",
+                "Sun",
+                "Eclipses"
+            ],
+            "org_facet": [
+                "Williams College"
+            ],
+            "per_facet": [
+                "Pasachoff, Jay M"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/22/obituaries/00Pasachoff-print1/merlin_199359183_a388e67a-e6c9-4d87-8915-bb5ca608969b-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jay M. Pasachoff in 2017. He made the study of solar eclipses his life’s work, spending up to three years before an eclipse preparing equipment, lining up grants, arranging travel and planning for contingencies.",
+                    "copyright": "Nathaniel Brooks for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/22/obituaries/00Pasachoff-print1/merlin_199359183_a388e67a-e6c9-4d87-8915-bb5ca608969b-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jay M. Pasachoff in 2017. He made the study of solar eclipses his life’s work, spending up to three years before an eclipse preparing equipment, lining up grants, arranging travel and planning for contingencies.",
+                    "copyright": "Nathaniel Brooks for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/22/obituaries/00Pasachoff-print1/00Pasachoff-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jay M. Pasachoff in 2017. He made the study of solar eclipses his life’s work, spending up to three years before an eclipse preparing equipment, lining up grants, arranging travel and planning for contingencies.",
+                    "copyright": "Nathaniel Brooks for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3ENlScv"
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "U.N. Climate Talks End With a Deal to Pay Poor Nations for Damage",
+            "abstract": "Nations reached a landmark deal to compensate developing nations for climate harm. But some leaders said the summit didn’t go far enough in addressing the root causes of global warming.",
+            "url": "https://www.nytimes.com/2022/11/20/climate/un-climate-cop27-loss-damage.html",
+            "uri": "nyt://article/93490825-ec6c-5945-b47d-20fe07258c82",
+            "byline": "By Brad Plumer, Max Bearak, Lisa Friedman and Jenny Gross",
+            "item_type": "Article",
+            "updated_date": "2022-11-21T11:09:58-05:00",
+            "created_date": "2022-11-20T03:33:45-05:00",
+            "published_date": "2022-11-20T03:33:45-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "Compensation for Damages (Law)",
+                "United Nations Framework Convention on Climate Change",
+                "International Relations"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/20/multimedia/20CLI-COP27-03-1-871a/20CLI-COP27-03-1-871a-superJumbo-v4.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1349,
+                    "width": 2020,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sameh Shoukry, the Egyptian foreign minister, seated, reading a statement at the closing session of climate talks in Sharm el Sheikh.",
+                    "copyright": "Mohamed Abd El Ghany/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/20/multimedia/20CLI-COP27-03-1-871a/20CLI-COP27-03-1-871a-threeByTwoSmallAt2X-v4.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sameh Shoukry, the Egyptian foreign minister, seated, reading a statement at the closing session of climate talks in Sharm el Sheikh.",
+                    "copyright": "Mohamed Abd El Ghany/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/20/multimedia/20CLI-COP27-03-1-871a/20CLI-COP27-03-1-871a-thumbLarge-v3.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sameh Shoukry, the Egyptian foreign minister, seated, reading a statement at the closing session of climate talks in Sharm el Sheikh.",
+                    "copyright": "Mohamed Abd El Ghany/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3V9R1fF"
+        },
+        {
+            "section": "espanol",
+            "subsection": "",
+            "title": "¿Los árboles hablan bajo tierra? Para los científicos, eso está en disputa",
+            "abstract": "Desde Ted Lasso hasta las charlas TED, la teoría de la “red de los bosques” está en todas partes, y algunos científicos sostienen que es exagerada y no está probada.",
+            "url": "https://www.nytimes.com/es/2022/11/20/espanol/arboles-comunicacion-hablan.html",
+            "uri": "nyt://article/deaab9fa-fcf8-5cc4-91b6-600d53783b76",
+            "byline": "By Gabriel Popkin",
+            "item_type": "Article",
+            "updated_date": "2022-11-20T10:23:31-05:00",
+            "created_date": "2022-11-20T03:00:18-05:00",
+            "published_date": "2022-11-20T03:00:18-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "your-feed-science",
+                "Trees and Shrubs",
+                "Forests and Forestry",
+                "Fungi",
+                "Research"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Karst, Justine",
+                "Hoeksema, Jason",
+                "Jones, Melanie D",
+                "Simard, Suzanne"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/08/science/07sci-woodwideweb-promo/merlin_216053385_539e099d-d15a-4e5a-9ad7-8b6f5d7f5022-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jennilee Marigomen for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/08/science/07sci-woodwideweb-promo/07sci-woodwideweb-promo-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jennilee Marigomen for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/08/science/07sci-woodwideweb-promo/07sci-woodwideweb-promo-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jennilee Marigomen for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3ELJrSX"
+        }
+    ]
+}

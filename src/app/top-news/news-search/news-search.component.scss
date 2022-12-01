@@ -1,0 +1,54 @@
+.search-input-div {
+  padding: 16px; 
+  display: flex; 
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.search-input{
+  width: 75%; 
+  border-radius: 8px; 
+  padding: 8px 4px; 
+  border-color: #c6bdbd;
+}
+.list-div{
+    width: 75%;
+    border: gray;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-top-style: hidden;
+    background: whitesmoke;
+}
+.ul-style{
+  padding: 2px 4px;
+
+  li{
+    list-style-type: none; 
+    cursor: pointer;
+  }
+}
+.paginator-style{
+  padding: 32px;
+}
+.search-list {
+  padding: 24px 0 !important;
+  height: auto !important;
+}
+.search-result{
+  padding: 0 16px;
+
+  span {
+    font-weight: bold;
+  }
+}
+::ng-deep {
+  .search-list > .mat-list-item-content {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+  }
+  
+  .mat-paginator-outer-container > .mat-paginator-container {
+    justify-content: center !important;
+  }
+}

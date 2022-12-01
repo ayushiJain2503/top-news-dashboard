@@ -1,0 +1,21 @@
+<mat-toolbar color="primary">
+  <h1 class="app-heading" (click)="navigate('news')">New York Times</h1>
+  <span class="spacer"></span>
+  <button
+    *ngIf="router.url.includes('news')"
+    mat-icon-button
+    class="search-icon"
+    (click)="navigate('search')"
+  >
+    <mat-icon>search</mat-icon>
+  </button>
+  <button
+    *ngIf="router.url.includes('search')"
+    mat-icon-button
+    class="search-icon"
+    (click)="navigate('news')"
+  >
+    <mat-icon>home</mat-icon>
+  </button>
+</mat-toolbar>
+<router-outlet></router-outlet>

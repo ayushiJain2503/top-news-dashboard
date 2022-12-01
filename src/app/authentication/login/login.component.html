@@ -1,0 +1,40 @@
+<mat-card>
+    <mat-card-header>
+        <h2>Log In</h2>
+    </mat-card-header>
+  <mat-card-content>
+    <form [formGroup]="loginForm" (ngSubmit)="login()">
+      <mat-error *ngIf="loginInvalid">
+        The username and password were not recognised
+      </mat-error>
+      <mat-form-field class="full-width-input" >
+        <mat-label>Email</mat-label>
+        <input
+          matInput
+          placeholder="Ex. pat@example.com"
+          formControlName="username"
+          required
+        />
+        <mat-error *ngIf="loginForm.hasError('username') && !loginForm.hasError('required')"> Please provide a valid email address </mat-error>
+        <mat-error *ngIf="loginForm.hasError('username') && loginForm.hasError('required')">Email is <strong>required</strong></mat-error>      
+      </mat-form-field>
+      <mat-form-field class="full-width-input">
+        <mat-label>Password</mat-label>
+        <input
+          matInput
+          type="password"
+          placeholder="Password"
+          formControlName="password"
+          required
+        />
+        <mat-error *ngIf="loginForm.hasError('password')"> Please provide a valid password </mat-error>
+      </mat-form-field>
+      <mat-card-actions>
+        <button mat-raised-button color="primary">Login</button>
+      </mat-card-actions>
+    </form>
+  </mat-card-content>
+  <mat-card-footer>
+    Not a Registered User? <a routerLink="/register">Register</a>
+  </mat-card-footer>
+</mat-card>

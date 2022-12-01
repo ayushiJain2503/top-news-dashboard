@@ -1,0 +1,62 @@
+<div class="search-input-div">
+  <input
+    class="search-input"
+    type="text"
+    matInput
+    [formControl]="searchControl"
+    (keypress)="filterNews($event)"
+    placeholder="Search news here"
+  />
+  <div class="list-div" *ngIf="searchControl.value && searchTextHistory.length">
+    <ul class="ul-style">
+      <li
+        *ngFor="let option of filteredSearchHistory"
+        (click)="filterSearchNews(option)"
+        class="li-style"
+      >
+        {{ option }}
+      </li>
+    </ul>
+  </div>
+</div>
+<div class="spinner" *ngIf="isLoading">
+  <mat-spinner></mat-spinner>
+</div>
+<div *ngIf="isError">
+  <mat-card>
+    <mat-card-content
+      >Error occurred while fetching the data. Please reload the
+      app.</mat-card-content
+    >
+  </mat-card>
+</div>
+<p *ngIf="searchText.length" class="search-result">
+  Search result for:
+  <span
+    >{{ searchText }} (Total: {{ searchResponse?.meta?.hits }})</span
+  >
+</p>
+<mat-list *ngIf="searchNewsArray.length">
+  <mat-list-item
+    class="search-list"
+    *ngFor="let news of searchNewsArray"
+  >
+    <span matListItemTitle
+      ><a href="{{ news?.web_url }}" target="_blank">{{
+        news?.headline?.main
+      }}</a></span
+    >
+    <span matListItemLine>{{ news?.abstract }}</span>
+    <span matListItemLine>{{ news?.lead_paragraph }}</span>
+  </mat-list-item>
+</mat-list>
+<mat-paginator
+  *ngIf="searchNewsArray.length"
+  [length]="searchResponse?.meta?.hits"
+  [pageSize]="10"
+  [hidePageSize]="true"
+  (page)="handlePageEvent($event)"
+  aria-label="Select page"
+  class="paginator-style"
+>
+</mat-paginator>

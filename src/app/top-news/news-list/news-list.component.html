@@ -1,0 +1,14 @@
+<div class="spinner" *ngIf="isLoading">
+  <mat-spinner></mat-spinner>
+</div>
+<div *ngIf="isError">
+  <mat-card>
+    <mat-card-content
+      >Error occurred while fetching the data. Please reload the
+      app.</mat-card-content
+    >
+  </mat-card>
+</div>
+<mat-accordion class="example-headers-align">
+  <app-news-details [newsData]="newsData"></app-news-details>
+</mat-accordion>

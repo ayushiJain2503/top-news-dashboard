@@ -1,0 +1,17 @@
+<div
+  class="filter-category"
+>
+  <mat-button-toggle-group
+    class="toggle-button"
+    name="categoryFilter"
+    aria-label="Category Filter"
+    value="All"
+    #group="matButtonToggleGroup"
+  >
+    <mat-button-toggle value="All">All</mat-button-toggle>
+    <mat-button-toggle value="World">World</mat-button-toggle>
+    <mat-button-toggle value="Science">Science</mat-button-toggle>
+  </mat-button-toggle-group>
+</div>
+<app-news-list [category]="group.value"></app-news-list>
+<router-outlet></router-outlet>
