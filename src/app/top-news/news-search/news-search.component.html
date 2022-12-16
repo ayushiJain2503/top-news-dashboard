@@ -32,15 +32,10 @@
 </div>
 <p *ngIf="searchText.length" class="search-result">
   Search result for:
-  <span
-    >{{ searchText }} (Total: {{ searchResponse?.meta?.hits }})</span
-  >
+  <span>{{ searchText }} (Total: {{ searchResponse?.meta?.hits }})</span>
 </p>
 <mat-list *ngIf="searchNewsArray.length">
-  <mat-list-item
-    class="search-list"
-    *ngFor="let news of searchNewsArray"
-  >
+  <mat-list-item class="search-list" *ngFor="let news of searchNewsArray">
     <span matListItemTitle
       ><a href="{{ news?.web_url }}" target="_blank">{{
         news?.headline?.main
