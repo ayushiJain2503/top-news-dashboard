@@ -12,11 +12,14 @@ import { getLoggedInUser } from 'src/app/store/reducer/login.reducer';
   styleUrls: ['./login.component.scss']
 })
 export class LoginComponent implements OnInit {
-
   loginForm: FormGroup;
   public loginInvalid: boolean;
 
-  constructor( private fb: FormBuilder, private authService: AuthServiceService, private store: Store) { }
+  constructor(
+    private fb: FormBuilder,
+    private authService: AuthServiceService,
+    private store: Store
+  ) {}
 
   ngOnInit(): void {
     this.loginForm = this.fb.group({
@@ -25,23 +28,23 @@ export class LoginComponent implements OnInit {
     });
 
     this.store.select(getLoggedInUser).subscribe((data) => {
-      if(!data.isLoadingSuccess && data.user.username.length){
+      if (!data.isLoadingSuccess && data.user?.username?.length) {
         this.loginInvalid = true;
       }
-    })
+    });
   }
 
   /**
    * Function to login user with the form details entered by the user
    */
-  public login(): void{
+  public login(): void {
     this.loginInvalid = false;
     if (this.loginForm.valid) {
-        const name = this.loginForm.get('username').value;
-        const pwd = this.loginForm.get('password').value;
-        const userData: User = {username: name, password: pwd};
-        this.store.dispatch(login({user: userData}));
-        this.authService.loginUser(userData);
+      const name = this.loginForm.get('username').value;
+      const pwd = this.loginForm.get('password').value;
+      const userData: User = { username: name, password: pwd };
+      this.store.dispatch(login({ user: userData }));
+      this.authService.loginUser(userData);
     }
   }
 }

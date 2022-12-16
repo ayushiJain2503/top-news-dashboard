@@ -9,10 +9,9 @@ describe('DashboardComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ DashboardComponent ],
+      declarations: [DashboardComponent],
       imports: [MatButtonToggleModule]
-    })
-    .compileComponents();
+    }).compileComponents();
   });
 
   beforeEach(() => {

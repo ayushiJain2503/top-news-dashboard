@@ -11,11 +11,14 @@ import { register } from 'src/app/store/action';
   styleUrls: ['./register.component.scss']
 })
 export class RegisterComponent implements OnInit {
-
   resgisterForm: FormGroup;
   public loginInvalid: boolean;
 
-  constructor(private fb: FormBuilder, private authService: AuthServiceService, private store: Store) { }
+  constructor(
+    private fb: FormBuilder,
+    private authService: AuthServiceService,
+    private store: Store
+  ) {}
 
   ngOnInit(): void {
     this.resgisterForm = this.fb.group({
@@ -28,16 +31,16 @@ export class RegisterComponent implements OnInit {
   /**
    * Register user with the form details filled by user.
    */
-  public register(): void{
+  public register(): void {
     if (this.resgisterForm.valid) {
       try {
         const name = this.resgisterForm.get('username').value;
         const pwd = this.resgisterForm.get('password').value;
-        const userData: User = {username: name, password: pwd};
-        this.store.dispatch(register({user: userData}));
-        this.authService.registerUser(userData)
+        const userData: User = { username: name, password: pwd };
+        this.store.dispatch(register({ user: userData }));
+        this.authService.registerUser(userData);
       } catch (err) {
-            this.loginInvalid = true;
+        this.loginInvalid = true;
       }
     }
   }

@@ -15,10 +15,9 @@ describe('RegisterComponent', () => {
   beforeEach(async () => {
     await TestBed.configureTestingModule({
       imports: [HttpClientTestingModule, RouterTestingModule],
-      declarations: [ RegisterComponent ],
+      declarations: [RegisterComponent],
       providers: [AuthServiceService, provideMockStore({}), FormBuilder]
-    })
-    .compileComponents();
+    }).compileComponents();
   });
 
   beforeEach(() => {

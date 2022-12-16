@@ -7,11 +7,8 @@ import { News } from 'src/app/interfaces';
   styleUrls: ['./news-details.component.scss']
 })
 export class NewsDetailsComponent implements OnInit {
-
   @Input() public newsData: News[] = [];
-  constructor() { }
+  constructor() {}
 
-  ngOnInit(): void {
-  }
-
+  ngOnInit(): void {}
 }

@@ -8,10 +8,12 @@ const routes: Routes = [
   {
     path: '',
     component: DashboardComponent,
-    children: [{
+    children: [
+      {
         path: 'details/:id',
         component: NewsDetailsComponent
-    }]
+      }
+    ]
   },
   {
     path: 'search',
@@ -27,4 +29,4 @@ const routes: Routes = [
   imports: [RouterModule.forChild(routes)],
   exports: [RouterModule]
 })
-export class TopNewsRoutingModule { }
+export class TopNewsRoutingModule {}

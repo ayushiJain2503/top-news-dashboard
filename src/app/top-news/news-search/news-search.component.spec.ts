@@ -12,10 +12,9 @@ describe('NewsSearchComponent', () => {
   beforeEach(async () => {
     await TestBed.configureTestingModule({
       imports: [HttpClientTestingModule],
-      declarations: [ NewsSearchComponent ],
+      declarations: [NewsSearchComponent],
       providers: [NewsApiService, provideMockStore({})]
-    })
-    .compileComponents();
+    }).compileComponents();
   });
 
   beforeEach(() => {
